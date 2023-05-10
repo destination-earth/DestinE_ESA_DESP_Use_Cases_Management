@@ -1,6 +1,6 @@
 # DestinE DESP Use Cases Project
 
-ESA Project for the selection of Use Cases to run on DESP and the management of DestinE Community
+ESA Project for the selection of Use Cases to run on DESP and the management of DestinE Community.
 
 ## Description
 
