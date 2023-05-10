@@ -18,11 +18,11 @@ It is possible to participate to this project in different ways.
 # How to contribute
 To propose new requirements, open a new issue of type "new DESP requirement".
 The request will be evaluated by the Project team and an answer will be given within 15 days. 
-If accepted the requirement will be logged in the "User Requirement log" and then reported in the "User Requirements Document" at the end of a requirement engineering process 
+If accepted the requirement will be logged in the "User Requirement log" and then reported in the "User Requirements Document" at the end of a requirement engineering process.   
 
 To propose ideas and suggestion for the DestinE user community, open a new issue of type "Community Engagement suggestions".
 The request will be evaluated by the Project team and an answer will be given within 15 days. 
-If accepted the suggestion will be included in the document "Community Building and Management Strategy and Workplan"
+If accepted the suggestion will be included in the document "Community Building and Management Strategy and Workplan".
 
 # Community
 The DestinE Open Source community is open to contributions from 
