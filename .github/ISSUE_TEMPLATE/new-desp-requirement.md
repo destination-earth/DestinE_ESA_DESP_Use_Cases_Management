@@ -10,7 +10,7 @@ assignees: ''
 **Reference Use Case:** 	Indicate here the reference use case for this user requirement  
 **User Requirement Name:**	Write here the name of the user requirement  
 **Preconditions:**	Indicate here the pre-conditions of the user requirement to be executed  
-**Main Actors:**...   
+**Main Actors:** ...   
 **Secondary Actors:** …  
 **Initiation/Initiator**	Describe here the user requirement trigger  
 **Description of Main Scenario:**
