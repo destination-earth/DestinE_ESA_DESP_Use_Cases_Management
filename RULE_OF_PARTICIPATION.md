@@ -12,7 +12,7 @@ Reading our guidelines is key to maximise your contribution, understanding proje
 # Rules of participation
 
 It is possible to participate to this project in different ways.
- * You can propose new requirements to be implemented by DESP, which will be analysed and reported in a "User Requirements Document".
+ * You can propose new requirements to be implemented by DESP, which will be analysed and reported in a "User Requirements Document"
  * You can propose your ideas and suggestion for the DestinE community engagement, sustainability
 
 # How to contribute
