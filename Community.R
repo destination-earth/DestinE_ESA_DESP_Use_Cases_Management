@@ -160,14 +160,13 @@ ggplot() +
 
 ################################################################################
 # WORD CLOUD
-install.packages("wordcloud")
-install.packages("tm")  # For text mining
+# install.packages("wordcloud")
+# install.packages("tm")  # For text mining
 library(wordcloud)
 library(tm)
 
 # Example vector of text
-texts <- c(read.csv("20240206_Community_Form.csv")$Whichtopicsareyouinterestedin,
-           read.csv("20240107_Community_Form_no_country.csv")$Whichtopicsareyouinterestedin)
+texts <- read.csv("20240307_Community_Form.csv")$Whichtopicsareyouinterestedin
 
 # Create a corpus from the vector
 corpus <- Corpus(VectorSource(texts))
