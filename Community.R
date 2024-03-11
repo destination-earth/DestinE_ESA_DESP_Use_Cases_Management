@@ -16,7 +16,7 @@ setwd("/cloud/project/data/raw_data")
 # Read data from the 1st DestinE User eXchange registration form
 db01 <- readxl::read_excel("20230215_User_eXchange_01.xlsx") %>%
   select(`Date Registered`, `Primary Address - Country`, # mandatory fields
-         `First Name`, `Last Name`, `Organization`, `Primary Email`) %>% # temp fields (to remove duplicates)
+         `First Name`, `Last Name`, `Organization`, `Primary Email`) %>%
   rename(Date = `Date Registered`, Country = `Primary Address - Country`,
          First = `First Name`, Last = `Last Name`,
          Org = `Organization`, Email = `Primary Email`) %>%
@@ -64,18 +64,8 @@ db05 <- read.csv("20231213_Roadshow_Webinar_02.csv") %>%
   mutate(across(everything(), tolower)) %>%
   mutate(Date = as.Date(ymd_hms(Date)))
 
-# Read data from the Community registration form - first version without country
-db06 <- read.csv("20240107_Community_Form_no_country.csv") %>%
- select(`Date`, `your.country`,
-        `first.name`, `Lastname`, `Organisation`, `your.email`) %>%
- rename(Country = `your.country`,
-        First = `first.name`, Last = `Lastname`,
-        Org = `Organisation`, Email = `your.email`) %>%
-  mutate(across(everything(), tolower)) %>% 
- mutate(Date = as.Date(ymd_hms(Date)))
-
-# Read data from the Community registration form - updated on 20240206
-db07 <- read.csv("20240206_Community_Form.csv") %>%
+# Read data from the Community registration form - updated weekly
+db06 <- read.csv("20240307_Community_Form.csv") %>%
   select(`Date`, `your.country`,
          `first.name`, `Lastname`, `Organisation`, `your.email`) %>%
   rename(Country = `your.country`,
@@ -85,10 +75,11 @@ db07 <- read.csv("20240206_Community_Form.csv") %>%
   mutate(Date = as.Date(ymd_hms(Date)))
 
 # Merge databases
-df <- rbind(db01, db02, db03, db04, db05, db06, db07) %>%
-  filter(!(is.na(First) | First == "") & !(is.na(Last) | Last == "")) %>% #remove test rows (emptyname/surname)
-  distinct(Email, .keep_all = TRUE) %>% # remove duplicate email
-  distinct(First, Last, .keep_all = TRUE) # remove duplicate first/last names
+df <- rbind(db01, db02, db03, db04, db05, db06) %>%
+  #remove test rows (emptyname/surname)
+  filter(!(is.na(First) | First == "") & !(is.na(Last) | Last == "")) %>%
+  distinct(Email, .keep_all = TRUE) #%>% # remove duplicate email
+  #distinct(First, Last, .keep_all = TRUE) # remove duplicate first/last names
 
 # Summarize registrations by date and calculate cumulative registrations
 df %>%
@@ -99,7 +90,8 @@ df %>%
   arrange(Date) %>%
   mutate(cumulative_registrations = cumsum(Registrations)) %>%
   ggplot(aes(Date, cumulative_registrations)) +
-  geom_line() + scale_color_discrete(name = "") + ylab("Registered community members")
+  geom_line() + scale_color_discrete(name = "") +
+  ylab("Registered community members")
 
 # Fix manually missing values ##################################################
 # Homogenize missing values
@@ -151,14 +143,16 @@ world <- ne_countries(scale = "medium", returnclass = "sf")
 world$admin <- tolower(world$admin)
 
 # Merge your data with the world map
-merged_data <- merge(world, df_country, by.x = "admin", by.y = "Country", all.x = TRUE)
+merged_data <- merge(world, df_country,
+                     by.x = "admin", by.y = "Country", all.x = TRUE)
 
 ggplot() +
   # Plot filled countries with data
   geom_sf(data = merged_data, aes(fill = n), color = "white", size = 0.1) +
   # Plot outlines for all countries
   geom_sf(data = world, fill = NA, color = "black", size = 0.1) +
-  scale_fill_continuous(name = "Number of Entries", na.value = "grey90", low = "blue", high = "red") +
+  scale_fill_continuous(name = "Number of Entries",
+                        na.value = "grey90", low = "blue", high = "red") +
   labs(title = "DestinE community registrations",
        subtitle = "Number of Entries per Country") +
   theme_minimal() +
