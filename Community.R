@@ -186,3 +186,4 @@ df_word_freqs <- data.frame(word = names(word_freqs), freq = word_freqs)
 wordcloud(words = df_word_freqs$word, freq = df_word_freqs$freq, min.freq = 1,
           max.words=200, random.order=FALSE, rot.per=0.35, 
           colors=brewer.pal(8, "Dark2"))
+
