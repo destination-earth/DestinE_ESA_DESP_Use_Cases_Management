@@ -4,7 +4,7 @@ ESA Project for the selection of Use Cases to run on DESP and the management of 
 
 ## Description
 
-Within the Destination Earth (DestinE) initiative, this project, managed by RHEA Group (RHEA) with the collaboration of Trust-IT Services (Trust-IT) and the Aristotle University of Thessalonik (AUTh), aims at developing a set of use cases to be procured via ESA Best Practice to demonstrate the capabilities of DestinE in general and DESP in particular.
+Within the Destination Earth (DestinE) initiative, this project, managed by Starion Italia (Starion) with the collaboration of Trust-IT Services (Trust-IT) and the Aristotle University of Thessalonik (AUTh), aims at developing a set of use cases to be procured via ESA Best Practice to demonstrate the capabilities of DestinE in general and DESP in particular.
 This project also takes care of collecting user requirements for DESP and managing the DestinE user community.
 
 ## Getting Started
@@ -22,9 +22,9 @@ To get more information visit the website https://www.destination-earth.eu/
 
 ## Project Main Contributors
 
-* Antonio Romeo, Project Manager (RHEA Group)
-* Jolanda Patruno (RHEA)
-* Sofia Catracchia (RHEA)
+* Antonio Romeo, Project Manager (Starion)
+* Jolanda Patruno (Starion)
+* Sofia Catracchia (Starion)
 * Rob Carrillo (Trust-IT)
 * Zachary Smith (Trust-IT)
 * Stratos Stylianidis (AUTh)
@@ -36,6 +36,8 @@ To get more information visit the website https://www.destination-earth.eu/
 
 * 1.0
     * Initial Release
+* 1.1
+    * Change company from RHEA to Starion
 
 ## Contributions
 
