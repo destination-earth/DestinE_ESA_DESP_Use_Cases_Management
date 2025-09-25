@@ -27,7 +27,7 @@
 
 **COPYRIGHT NOTICE**
 
-![](./D2.2/images/media/image2.png){width="1.3423129921259842in"
+![](./images/media/image2.png){width="1.3423129921259842in"
 height="0.4696434820647419in"}
 
 **DELIVERY SLIP**
@@ -332,7 +332,7 @@ different categorisations and peculiarities. A visual representation of
 the above stakeholders' categories is seen in Figure 1.
 
 []{.mark}![Diagram Description automatically
-generated](./D2.2/images/media/image3.png){width="6.267716535433071in"
+generated](./images/media/image3.png){width="6.267716535433071in"
 height="2.1666666666666665in"}
 
 Figure 1 Stakeholder categorisation
@@ -413,11 +413,11 @@ classification is shown in Figure 2 and may occur as follows:
   working on global issues.
 
 ![Timeline Description automatically
-generated](./D2.2/images/media/image4.png){width="6.267716535433071in"
+generated](./images/media/image4.png){width="6.267716535433071in"
 height="1.1944444444444444in"}
 
 ![Figure 2 Policymakers
-breakdown](./D2.2/images/media/image5.png){width="4.312723097112861in"
+breakdown](./images/media/image5.png){width="4.312723097112861in"
 height="3.234782370953631in"}
 
 **[Subjects]{.underline}**
@@ -517,11 +517,11 @@ specific classification is shown in Figure 3 and may occur as follows:
   international organisations focused on climate and the environment.
 
 ![Timeline Description automatically
-generated](./D2.2/images/media/image6.png){width="6.267716535433071in"
+generated](./images/media/image6.png){width="6.267716535433071in"
 height="1.1944444444444444in"}
 
 ![Figure 3 Decision makers
-breakdown](./D2.2/images/media/image7.png){width="4.486624015748031in"
+breakdown](./images/media/image7.png){width="4.486624015748031in"
 height="3.365217629046369in"}
 
 **[Subjects]{.underline}**
@@ -648,7 +648,7 @@ include a vast variety of subcategories such as:
 - Biologists
 
 ![Diagram Description automatically
-generated](./D2.2/images/media/image10.png){width="6.128082895888014in"
+generated](./images/media/image10.png){width="6.128082895888014in"
 height="2.7826498250218723in"} Figure 4 Indicative research and academia
 subcategories
 
@@ -666,7 +666,7 @@ environmental NGOs, universities with research programs in the region,
 and government agencies responsible for managing the region\'s natural
 resources.
 
-![image](./D2.2/images/media/image11.jpeg){width="4.313043525809274in"
+![image](./images/media/image11.jpeg){width="4.313043525809274in"
 height="3.235977690288714in"}
 
 **[Subjects]{.underline}**
@@ -801,7 +801,7 @@ following are referred:
 - Hardware companies
 
 ![Figure 5 Indicative technology providers
-subcategories](./D2.2/images/media/image12.png){width="4.474812992125984in"
+subcategories](./images/media/image12.png){width="4.474812992125984in"
 height="3.498642825896763in"}
 
 Figure 5 shows indicative subcategories of technology providers. Unlike
@@ -813,7 +813,7 @@ be applied to various spatial scales. However, the specific solutions
 they offer may vary based on the needs and characteristics of different
 regions or ecosystems.
 
-![](./D2.2/images/media/image13.jpg){width="4.722916666666666in"
+![](./images/media/image13.jpg){width="4.722916666666666in"
 height="3.542361111111111in"}
 
 **[Subjects]{.underline}**
@@ -961,13 +961,13 @@ shown in Figure 6 and listed below:
   sustainability and reducing their carbon footprint.
 
 <figure>
-<img src="./D2.2/images/media/image14.png"
+<img src="./images/media/image14.png"
 style="width:6.26772in;height:1.16667in"
 alt="Timeline Description automatically generated" />
 <figcaption><p>Figure 6 Indicative industry companies</p></figcaption>
 </figure>
 
-![](./D2.2/images/media/image15.jpg){width="3.9893613298337707in"
+![](./images/media/image15.jpg){width="3.9893613298337707in"
 height="2.9922419072615924in"}
 
 **[Subjects]{.underline}**
@@ -1096,7 +1096,7 @@ them are presented in Figure 7 and may be analysed as follows:
   and its associated tools.
 
 ![Figure 7 Indicative DestinE Use case
-makers](./D2.2/images/media/image16.png){width="6.267716535433071in"
+makers](./images/media/image16.png){width="6.267716535433071in"
 height="1.1666666666666667in"}
 
 #### Core DestinE Entities
@@ -1142,7 +1142,7 @@ international context (Miller and H-Jensen, 1997; Bryson and Einsweiler,
 following methodological approach that shown in Figure 8.
 
 <figure>
-<img src="./D2.2/images/media/image17.png"
+<img src="./images/media/image17.png"
 style="width:6.17708in;height:4.64583in"
 alt="Εικόνα που περιέχει κείμενο, στιγμιότυπο οθόνης, κύκλος, γραμματοσειρά Περιγραφή που δημιουργήθηκε αυτόματα" />
 <figcaption><p>Figure 8: Methodological approach to the development of
@@ -1246,7 +1246,7 @@ sustainability in the digital landscape, ensuring the community\'s
 enduring impact.
 
 <figure>
-<img src="./D2.2/images/media/image18.png"
+<img src="./images/media/image18.png"
 style="width:6.22917in;height:1.42708in"
 alt="Εικόνα που περιέχει στιγμιότυπο οθόνης, γραφικά, clipart, γραφιστική Περιγραφή που δημιουργήθηκε αυτόματα" />
 <figcaption><p>Figure 9: Strategy’s mission</p></figcaption>
@@ -1651,7 +1651,7 @@ discussions on the design of future DestinE Platform capabilities
 
 ![Εικόνα που περιέχει κείμενο, επαγγελματική κάρτα, στιγμιότυπο οθόνης,
 γραμματοσειρά Περιγραφή που δημιουργήθηκε
-αυτόματα](./D2.2/images/media/image19.png){width="3.9583333333333335in"
+αυτόματα](./images/media/image19.png){width="3.9583333333333335in"
 height="2.7941174540682416in"}
 
 **Figure 10: Areas that CoPs activities may focus**
