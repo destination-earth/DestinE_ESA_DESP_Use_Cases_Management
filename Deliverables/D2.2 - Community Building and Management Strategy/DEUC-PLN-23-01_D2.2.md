@@ -149,9 +149,7 @@ This classification enables focused engagement tactics by matching the influence
 
 The DestinE Use case makers, the Core DestinE Entities, and the general public have a special classification of their own, as they apply to different categorisations and peculiarities. A visual representation of the above stakeholders’ categories is seen in Figure 1.
 
-` `![Diagram
-
-Description automatically generated](004.png)
+` `![](004.png)
 
 <a name="_6vh4kaiql63s"></a>**Figure **1** Stakeholder categorisation**
 
@@ -170,9 +168,7 @@ Policymakers are considered key users of the DestinE Platform. Thus, policymaker
 - **Ecoregions policymakers**: representatives of organisations working at the level of the 14 major ecoregions.
 - **Global scale policymakers**: representatives of the United Nations and its agencies, officials from intergovernmental organisations working at the global level, and representatives of international NGOs working on global issues.
 
-` `![Timeline
-
-Description automatically generated](005.png)
+` `![](005.png)
 
 <a name="_ug042vdd2e1k"></a>**Figure **2** Policymakers breakdown**
 
@@ -205,9 +201,7 @@ Decision makers are likely to be key supporters of the DestinE initiative, setti
 - Ecoregion decision makers: experts and practitioners with knowledge of specific ecoregions and their particular challenges and representatives of indigenous and other local communities.
 - Global scale decision makers: global business CEOs and other executives of major global corporations, and representatives of international organisations focused on climate and the environment.
 
-` `![Timeline
-
-Description automatically generated](007.png)
+` `![](007.png)
 
 **Figure **3** Decision makers breakdown**
 
@@ -251,9 +245,7 @@ Research and academia stakeholders can have different subcategories on different
 - Biologists
 
 
-![Diagram
-
-Description automatically generated](011.png) **Figure **4** Indicative research and academia subcategories**
+![](011.png) **Figure **4** Indicative research and academia subcategories**
 
 Figure 4 shows indicative subcategories of research and academia. For each of these subcategories, the specific stakeholders involved may vary depending on the spatial level in question. For example, at a local level, climate scientists may include professors at a nearby university, meteorologists may include forecasters at a local station, and ecologists may include researchers at a nearby nature preserve. At a national level, these stakeholders may include researchers at government agencies, and at a global level, they may include scientists at international research institutions. For the 14 major ecoregions, specific stakeholders may include representatives from local environmental NGOs, universities with research programs in the region, and government agencies responsible for managing the region's natural resources.
 
@@ -345,9 +337,7 @@ Industry stakeholders may not be categorised based on different subcategories on
 - **Construction and real estate companies**: Construction and real estate companies that may need to adapt to changing weather conditions and sea levels, particularly in vulnerable areas. Such companies are the ones involved in the construction, maintenance, and management of infrastructure, including roads, bridges, airports, and utilities.
 - **Consumer goods companies**: The specific subgroup refers to companies that may need to adapt to changing consumer preferences in response to climate crisis and extreme weather events, as well as potential supply chain disruptions. These companies may be the ones that sell products to consumers, including those that are focused on sustainability and reducing their carbon footprint.
 
-![Timeline
-
-Description automatically generated](016.png)
+![](016.png)
 
 **Figure **6** Indicative industry companies**
 
@@ -392,9 +382,7 @@ Upon categorizing stakeholders their engagement levels should be defined along w
 1. # <a name="_xhx7oas41upw"></a><a name="_2mbn7kan9vjo"></a><a name="_toc152171281"></a><a name="_toc139297761"></a><a name="_toc155973205"></a><a name="_toc203407377"></a>**DestinE Community Building Strategy development methodology**
 The development of the DestinE Community Building Strategy follows the basic principles of Strategic Planning as defined by many scholars in an international context (Miller and H-Jensen, 1997; Bryson and Einsweiler, 1988; Hopkins and Hopkins, 1997; Andersen, 2000 etc.) and applies the following methodological approach that shown in [Figure 8](#_ref155974299).
 
-![Εικόνα που περιέχει κείμενο, στιγμιότυπο οθόνης, κύκλος, γραμματοσειρά
-
-Περιγραφή που δημιουργήθηκε αυτόματα](019.png)
+![](019.png)
 
 <a name="_ref155974299"></a>**Figure **8**: Methodological approach to the development of the Community Building and Management Strategy**
 
@@ -431,9 +419,7 @@ The second pillar, "Engage," embodies the commitment to actively involve every m
 
 The fourth and final pillar, "Sustain," underscores DestinE's commitment to creating a community that not only thrives but also sustains and grows itself. Through responsible practices, ethical decision-making, and a long-term vision, DestinE aims to be a beacon of sustainability in the digital landscape, ensuring the community's enduring impact.
 
-![Εικόνα που περιέχει στιγμιότυπο οθόνης, γραφικά, clipart, γραφιστική
-
-Περιγραφή που δημιουργήθηκε αυτόματα](020.png)
+![](020.png)
 
 <a name="_ref155809500"></a>**Figure **9**: Strategy’s mission**
 
