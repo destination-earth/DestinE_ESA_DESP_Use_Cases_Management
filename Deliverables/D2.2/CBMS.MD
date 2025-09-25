@@ -1,139 +1,250 @@
-  -------------------- --------------------------------------------------
-  **Lead Partner:**    AUTh
+<table>
+<colgroup>
+<col style="width: 28%" />
+<col style="width: 71%" />
+</colgroup>
+<tbody>
+<tr>
+<td><strong>Lead Partner:</strong></td>
+<td style="text-align: left;">AUTh</td>
+</tr>
+<tr>
+<td><strong>Version:</strong></td>
+<td style="text-align: left;">V6.1</td>
+</tr>
+<tr>
+<td><strong>Status:</strong></td>
+<td style="text-align: left;">Final</td>
+</tr>
+<tr>
+<td><strong>Dissemination Level:</strong></td>
+<td style="text-align: left;">PU</td>
+</tr>
+</tbody>
+</table>
 
-  **Version:**         V6.1
+<table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Deliverable Abstract</strong></td>
+</tr>
+<tr>
+<td style="text-align: left;">This deliverable covers the DestinE
+Community Building Strategy outlining the approach to effectively build,
+engage and exploit the DestinE User Community while nurturing the ground
+for the successful exploitation of DestinE DestinE Platform
+capabilities, applications, and solutions by the users. It also deals
+with the DestinE First Phase Communication Plan which covers the
+promotional activities for DestinE and to support the community building
+and activities foreseen as part of the DestinE Use Cases project (DEUC)
+including the operation of the Joint DestinE Website.</td>
+</tr>
+</tbody>
+</table>
 
-  **Status:**          Final
-
-  **Dissemination      PU
-  Level:**             
-  -------------------- --------------------------------------------------
-
-  -----------------------------------------------------------------------
-  **Deliverable Abstract**
-
-  This deliverable covers the DestinE Community Building Strategy
-  outlining the approach to effectively build, engage and exploit the
-  DestinE User Community while nurturing the ground for the successful
-  exploitation of DestinE DestinE Platform capabilities, applications,
-  and solutions by the users. It also deals with the DestinE First Phase
-  Communication Plan which covers the promotional activities for DestinE
-  and to support the community building and activities foreseen as part
-  of the DestinE Use Cases project (DEUC) including the operation of the
-  Joint DestinE Website.
-  -----------------------------------------------------------------------
-
-**\**
+**  **
 
 **COPYRIGHT NOTICE**
 
-![](./images/media/image2.png){width="1.3423129921259842in"
-height="0.4696434820647419in"}
+<img src="./images/media/image2.png"
+style="width:1.34231in;height:0.46964in" />
 
 **DELIVERY SLIP**
 
-  -------------------------------------------------------------------------
-  *Date*           *Name & Partner*                            *Date*
-  ---------------- ------------------------------------------- ------------
-  Prepared by:     Eleni Karachaliou (AUTh)                    22.09.2025
-
-  Reviewed by:     Antonio Romeo (STARION)                     22.09.2025
-
-  Approved by:     Claudia Vitolo (ESA)                        23/09/2025
-  -------------------------------------------------------------------------
+<table>
+<colgroup>
+<col style="width: 23%" />
+<col style="width: 61%" />
+<col style="width: 15%" />
+</colgroup>
+<thead>
+<tr>
+<th><em>Date</em></th>
+<th><em>Name &amp; Partner</em></th>
+<th><em>Date</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Prepared by:</td>
+<td>Eleni Karachaliou (AUTh)</td>
+<td>22.09.2025</td>
+</tr>
+<tr>
+<td>Reviewed by:</td>
+<td>Antonio Romeo (STARION)</td>
+<td>22.09.2025</td>
+</tr>
+<tr>
+<td>Approved by:</td>
+<td>Claudia Vitolo (ESA)</td>
+<td>23/09/2025</td>
+</tr>
+</tbody>
+</table>
 
 **DOCUMENT LOG**
 
-  ------------------------------------------------------------------------------
-  *Issue*   *Date*       *Comment*            *Author*
-  --------- ------------ -------------------- ----------------------------------
-  V1.0      18.04.2023   Internal review      Antonio Romeo (RHEA)
-                         feedback             
+<table>
+<colgroup>
+<col style="width: 9%" />
+<col style="width: 14%" />
+<col style="width: 28%" />
+<col style="width: 48%" />
+</colgroup>
+<thead>
+<tr>
+<th><em>Issue</em></th>
+<th><em>Date</em></th>
+<th><em>Comment</em></th>
+<th><em>Author</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>V1.0</td>
+<td>18.04.2023</td>
+<td>Internal review feedback</td>
+<td>Antonio Romeo (RHEA)</td>
+</tr>
+<tr>
+<td>V1.1</td>
+<td>04.05.2023</td>
+<td>RR review feedback</td>
+<td>Efstratios Stylianidis (AUTh), Antonios Mouratidis (AUTh), Eleni
+Katragkou (AUTh), Antonios Mazaris (AUTh), Eleni Karachaliou (AUTh),
+Aikaterini Bakousi( AUTh), Costas Bissas (AUTh), Rob Carrillo
+(Trust-IT)</td>
+</tr>
+<tr>
+<td>V1.2</td>
+<td>30.06.2023</td>
+<td>2<sup>nd</sup> sub-iteration implementing feedback and updates to
+the community building and communication plan.</td>
+<td>Federico Drago (Trust-IT), Eleni Karachaliou (AUTh)</td>
+</tr>
+<tr>
+<td>V2.0</td>
+<td>29.11.2023</td>
+<td>2<sup>nd</sup> official iteration of the CBMS</td>
+<td>Zachary Smith (Trust-IT), Eleni Karachaliou (AUTh), Rob Carrillo
+(Trust-IT), Valeriya Fetisova (Trust-IT), Luigi Colucci (Trust-IT)</td>
+</tr>
+<tr>
+<td>V2.1</td>
+<td>12.01.2024</td>
+<td>sub-iteration implementing feedback and updates to the community
+building and communication plan.</td>
+<td>Zachary Smith (Trust-IT), Eleni Karachaliou (AUTh), Efstratios
+Stylianidis (AUTh), Aikaterini Bakousi (AUTh), Zoi-Eirini Tsifodimou
+(AUTh), Costas Bissas (AUTh), Rob Carrillo (Trust-IT), Valeriya Fetisova
+(Trust-IT), Luigi Colucci (Trust-IT)</td>
+</tr>
+<tr>
+<td>V3.0</td>
+<td>19.07.2024</td>
+<td>3<sup>rd</sup> iteration</td>
+<td>Eleni Karachaliou (AUTh), Rob Carrillo (Trust-IT), Valeriya Fetisova
+(Trust-IT), Luigi Colucci (Trust-IT), Antonio Romeo (Starion)</td>
+</tr>
+<tr>
+<td>V4.0</td>
+<td>30.07.2024</td>
+<td>IR closeout</td>
+<td>Eleni Karachaliou (AUTh), Antonio Romeo (Starion)</td>
+</tr>
+<tr>
+<td>V5.0</td>
+<td>15.12.2024</td>
+<td>Stakeholder Matrixes</td>
+<td>Diego Domenici (Trust-IT)</td>
+</tr>
+<tr>
+<td>V6.0</td>
+<td>11.07.2025</td>
+<td>sub-iteration implementing feedback and updates to the community
+building and communication plan.</td>
+<td>Efstratios Stylianidis (AUTh), Eleni Karachaliou (AUTh), Anna Dosiou
+(AUTh), Ioannis Tavantzis (AUTh), Zoi-Eirini Tsifodimou (AUTh)</td>
+</tr>
+<tr>
+<td>V6.1</td>
+<td>22/09/2025</td>
+<td>Implemention of comments received for Final Review</td>
+<td>Eleni Karachaliou (AUTh), Antonio Romeo (Starion)</td>
+</tr>
+</tbody>
+</table>
 
-  V1.1      04.05.2023   RR review feedback   Efstratios Stylianidis (AUTh),
-                                              Antonios Mouratidis (AUTh), Eleni
-                                              Katragkou (AUTh), Antonios Mazaris
-                                              (AUTh), Eleni Karachaliou (AUTh),
-                                              Aikaterini Bakousi( AUTh), Costas
-                                              Bissas (AUTh), Rob Carrillo
-                                              (Trust-IT)
-
-  V1.2      30.06.2023   2^nd^ sub-iteration  Federico Drago (Trust-IT), Eleni
-                         implementing         Karachaliou (AUTh)
-                         feedback and updates 
-                         to the community     
-                         building and         
-                         communication plan.  
-
-  V2.0      29.11.2023   2^nd^ official       Zachary Smith (Trust-IT), Eleni
-                         iteration of the     Karachaliou (AUTh), Rob Carrillo
-                         CBMS                 (Trust-IT), Valeriya Fetisova
-                                              (Trust-IT), Luigi Colucci
-                                              (Trust-IT)
-
-  V2.1      12.01.2024   sub-iteration        Zachary Smith (Trust-IT), Eleni
-                         implementing         Karachaliou (AUTh), Efstratios
-                         feedback and updates Stylianidis (AUTh), Aikaterini
-                         to the community     Bakousi (AUTh), Zoi-Eirini
-                         building and         Tsifodimou (AUTh), Costas Bissas
-                         communication plan.  (AUTh), Rob Carrillo (Trust-IT),
-                                              Valeriya Fetisova (Trust-IT),
-                                              Luigi Colucci (Trust-IT)
-
-  V3.0      19.07.2024   3^rd^ iteration      Eleni Karachaliou (AUTh), Rob
-                                              Carrillo (Trust-IT), Valeriya
-                                              Fetisova (Trust-IT), Luigi Colucci
-                                              (Trust-IT), Antonio Romeo
-                                              (Starion)
-
-  V4.0      30.07.2024   IR closeout          Eleni Karachaliou (AUTh), Antonio
-                                              Romeo (Starion)
-
-  V5.0      15.12.2024   Stakeholder Matrixes Diego Domenici (Trust-IT)
-
-  V6.0      11.07.2025   sub-iteration        Efstratios Stylianidis (AUTh),
-                         implementing         Eleni Karachaliou (AUTh), Anna
-                         feedback and updates Dosiou (AUTh), Ioannis Tavantzis
-                         to the community     (AUTh), Zoi-Eirini Tsifodimou
-                         building and         (AUTh)
-                         communication plan.  
-
-  V6.1      22/09/2025   Implemention of      Eleni Karachaliou (AUTh), Antonio
-                         comments received    Romeo (Starion)
-                         for Final Review     
-  ------------------------------------------------------------------------------
-
-**\**
+**  **
 
 **TERMINOLOGY**
 
-  ----------------------------------------------------------------------------
-  *Terminology/Acronym*   *Definition*
-  ----------------------- ----------------------------------------------------
-  AI                      Artificial intelligence
-
-  CBMS                    Community Building and Management Strategy
-
-  CoP                     Community of Practice
-
-  DestinE                 Destination Earth
-
-  DEUC                    DestinE Use Cases project
-
-  EE                      Entrusted Entities (ESA, ECMWF, EUMETSTAT)
-
-  GIS                     Geographic Information Systems
-
-  IRL                     In Real Life
-
-  ML                      Machine Learning
-
-  UI                      User interface
-
-  UX                      User experience
-
-  3Es                     Three Entrusted Entities
-  ----------------------------------------------------------------------------
+<table>
+<colgroup>
+<col style="width: 26%" />
+<col style="width: 73%" />
+</colgroup>
+<thead>
+<tr>
+<th><em>Terminology/Acronym</em></th>
+<th><em>Definition</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>AI</td>
+<td>Artificial intelligence</td>
+</tr>
+<tr>
+<td>CBMS</td>
+<td>Community Building and Management Strategy</td>
+</tr>
+<tr>
+<td>CoP</td>
+<td>Community of Practice</td>
+</tr>
+<tr>
+<td>DestinE</td>
+<td>Destination Earth</td>
+</tr>
+<tr>
+<td>DEUC</td>
+<td>DestinE Use Cases project</td>
+</tr>
+<tr>
+<td>EE</td>
+<td>Entrusted Entities (ESA, ECMWF, EUMETSTAT)</td>
+</tr>
+<tr>
+<td>GIS</td>
+<td>Geographic Information Systems</td>
+</tr>
+<tr>
+<td>IRL</td>
+<td>In Real Life</td>
+</tr>
+<tr>
+<td>ML</td>
+<td>Machine Learning</td>
+</tr>
+<tr>
+<td>UI</td>
+<td>User interface</td>
+</tr>
+<tr>
+<td>UX</td>
+<td>User experience</td>
+</tr>
+<tr>
+<td>3Es</td>
+<td>Three Entrusted Entities</td>
+</tr>
+</tbody>
+</table>
 
 **Contents**
 
@@ -163,7 +274,7 @@ the community
 [3.4 Strategic Objectives
 [32](#strategic-objectives)](#strategic-objectives)
 
-[3.5 Short-Term Objectives -- 2024
+[3.5 Short-Term Objectives – 2024
 [33](#short-term-objectives-2024)](#short-term-objectives-2024)
 
 # Introduction
@@ -195,23 +306,23 @@ highly-accurate digital twin of Earth** to model, monitor, and simulate
 natural and human activity Earth System phenomena and natural hazards to
 develop and test scenarios that will assist policy-makers in designing
 accurate and actionable adaptation strategies and mitigation measures
-for achieving both the [[Green
-Deal]{.underline}](https://ec.europa.eu/info/strategy/priorities-2019-2024/european-green-deal_en)
-and the [[Digital
-Strategy]{.underline}](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/european-data-strategy_en)
+for achieving both the [<u>Green
+Deal</u>](https://ec.europa.eu/info/strategy/priorities-2019-2024/european-green-deal_en)
+and the [<u>Digital
+Strategy</u>](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/european-data-strategy_en)
 priorities of the EU:
 
 - **DestinE will anticipate both natural disasters and man-made
   environmental damage** with ever higher accuracy. It will identify and
   assess the negative impacts of natural disasters and environmental
   damage on various socio-economic sectors and geographical regions. In
-  other words, DestinE will integrate 'cause and effect' -- combining
+  other words, DestinE will integrate ‘cause and effect’ – combining
   better forecasts of potential environmental disasters with their
   expected adverse impacts on human activity.
 
 - **DestinE will enable the continuous and accurate monitoring of the
   health of the planet** by focusing on the countless effects of climate
-  change on, e.g., the oceans, water resources, the Earth's ice caps,
+  change on, e.g., the oceans, water resources, the Earth’s ice caps,
   biodiversity, land use, and other natural resources.
 
 - **DestinE will allow to better understand the socio-economic effects
@@ -227,13 +338,13 @@ priorities of the EU:
   measures, for example, to assess the real impact and efficiency of
   environmental policies and related legislative measures.
 
-In the Commission's Data Strategy of 2020, DestinE is highlighted as an
+In the Commission’s Data Strategy of 2020, DestinE is highlighted as an
 initiative that will cover concrete actions in the context of the Green
 Deal Data Space and in support of the Green Deal objectives.
 
 DestinE will be implemented gradually over the next 7-10 years. The
-activities funded by the [[DIGITAL Work Progamme
-2021-2022]{.underline}](https://digital-strategy.ec.europa.eu/en/activities/work-programmes-digital)
+activities funded by the [<u>DIGITAL Work Progamme
+2021-2022</u>](https://digital-strategy.ec.europa.eu/en/activities/work-programmes-digital)
 will focus on the deployment of the Core Service Platform and the Data
 Lake, the building of the Digital Twin Engine and the implementation of
 the first two Digital Twins on Weather-induced & Geophysical Extremes
@@ -243,7 +354,7 @@ by additional digital twins, tools and applications by research
 institutions, private sector and civil society. Additional funding will
 be available from other sources, e.g., the Horizon Europe Programme.
 
-DestinE will also have a clear interface with the European Union's
+DestinE will also have a clear interface with the European Union’s
 flagship Space programme Copernicus and its relevant resources.
 
 ## Stakeholder Mapping
@@ -260,20 +371,20 @@ stakeholders.
 Based on the insights from Baulenas, et. Al, (2023), the significance of
 stakeholder engagement extends beyond mere categorization, emphasizing
 the depth of interaction. Stakeholders should be differentiated by their
-engagement levels, including terms like \"superusers,\"
-\"companion-partner users,\" \"fellow users,\" \"champion users,\" and
-\"next users\". The role also of influential stakeholders, such as
-highly regarded scientists or policy intermediaries, is pivotal. These
-individuals or entities, can sponsor projects, serving as connectors
-within social networks and inspiring broader participation. Furthermore,
-engaging intermediary organizations like community-based groups can
-ensure the engagement process remains equitable and transparent,
-preventing the marginalization of certain communities. Thus, the
-categorization of the stakeholders should take into account:
+engagement levels, including terms like "superusers," "companion-partner
+users," "fellow users," "champion users," and "next users". The role
+also of influential stakeholders, such as highly regarded scientists or
+policy intermediaries, is pivotal. These individuals or entities, can
+sponsor projects, serving as connectors within social networks and
+inspiring broader participation. Furthermore, engaging intermediary
+organizations like community-based groups can ensure the engagement
+process remains equitable and transparent, preventing the
+marginalization of certain communities. Thus, the categorization of the
+stakeholders should take into account:
 
-- The stakeholder\'s contribution to the service\'s success.
+- The stakeholder's contribution to the service's success.
 
-- The stakeholder\'s interest in the service.
+- The stakeholder's interest in the service.
 
 - The resources (e.g., finances, expertise, local knowledge) the
   stakeholder offers.
@@ -282,16 +393,16 @@ categorization of the stakeholders should take into account:
 
 - Barriers to meaningful engagement.
 
-- The service\'s capacity to manage increasing disaster severity.
+- The service's capacity to manage increasing disaster severity.
 
 - The inclusivity of diverse perspectives and stakeholder groups.
 
 - Representation of diverse demographics and marginalized groups.
 
-- The stakeholder\'s network access that could enhance service uptake.
+- The stakeholder's network access that could enhance service uptake.
 
 For the current stage of DestinE and before the system launch, the
-classification of the stakeholders for the stakeholders' mapping will be
+classification of the stakeholders for the stakeholders’ mapping will be
 based on three different levels, the spatial, their expertise, and the
 customised one. Upon system release, the stakeholders/users will be
 further categorized by their usage levels as follows:
@@ -300,7 +411,7 @@ further categorized by their usage levels as follows:
 
 - Co - developers (ESA-ECMWF-EUMETSAT)
 
-- Creators (EE\'s contractors & partners)
+- Creators (EE's contractors & partners)
 
 - Consumers (policy/decision makers)
 
@@ -314,14 +425,14 @@ propositions.
 
 This classification enables focused engagement tactics by matching the
 influence and interest of each stakeholder group in DestinE. Because
-their activity mostly relies on access to DestinE\'s data, subjects are
+their activity mostly relies on access to DestinE's data, subjects are
 mapped as high-interest but low-power stakeholders because they lack the
 institutional clout to direct the project. Because of their dual roles
 as important contributors and beneficiaries, players are positioned at
 the centre of the effort, playing a crucial role in both influencing and
 benefiting from DestinE. Context Setters are very powerful in their
-domains, but because of their lack of alignment with DestinE\'s current
-focus, engaging them requires special efforts. Lastly, the Crowd\'s
+domains, but because of their lack of alignment with DestinE's current
+focus, engaging them requires special efforts. Lastly, the Crowd's
 marginal significance to DestinE defines it, so engagement tactics focus
 on increasing awareness and offering easy-to-use tools to encourage
 involvement.
@@ -329,17 +440,17 @@ involvement.
 The DestinE Use case makers, the Core DestinE Entities, and the general
 public have a special classification of their own, as they apply to
 different categorisations and peculiarities. A visual representation of
-the above stakeholders' categories is seen in Figure 1.
+the above stakeholders’ categories is seen in Figure 1.
 
-[]{.mark}![Diagram Description automatically
-generated](./images/media/image3.png){width="6.267716535433071in"
-height="2.1666666666666665in"}
+<span class="mark"></span><img src="./images/media/image3.png"
+style="width:6.26772in;height:2.16667in"
+alt="Diagram Description automatically generated" />
 
 Figure 1 Stakeholder categorisation
 
 ### Categorisation based on a spatial scale
 
-Using a spatial approach to generate a stakeholders\' map is important
+Using a spatial approach to generate a stakeholders' map is important
 for several reasons. First, different stakeholders may have different
 levels of interest and influence depending on the spatial scale. For
 example, local stakeholders such as community groups and NGOs may be
@@ -377,10 +488,10 @@ initiative, as it provides them with a powerful and unique tool for
 analysis and prediction, to make data-driven policy decisions. As the EU
 works toward its goal of being carbon neutral by 2050, DestinE
 initiative will serve as the foundation for successful European
-adaptation strategies in support of the European Commission's.
+adaptation strategies in support of the European Commission’s.
 
 Policymakers are considered key users of the DestinE Platform. Thus,
-policymakers\' needs identification is critical. Their specific
+policymakers' needs identification is critical. Their specific
 classification is shown in Figure 2 and may occur as follows:
 
 - **Local policymakers**: city councils, local governments responsible
@@ -397,7 +508,7 @@ classification is shown in Figure 2 and may occur as follows:
   protection services, emergency services.
 
 - **Continental scale policymakers**: European Emergency Coordination
-  Center, European Commission\'s Directorate-General for climate action,
+  Center, European Commission's Directorate-General for climate action,
   the European Environment Agency, members of the European Parliament,
   representatives of the European Commission and other EU bodies,
   officials from intergovernmental organisations operating at the
@@ -412,15 +523,17 @@ classification is shown in Figure 2 and may occur as follows:
   working at the global level, and representatives of international NGOs
   working on global issues.
 
-![Timeline Description automatically
-generated](./images/media/image4.png){width="6.267716535433071in"
-height="1.1944444444444444in"}
+<img src="./images/media/image4.png"
+style="width:6.26772in;height:1.19444in"
+alt="Timeline Description automatically generated" />
 
-![Figure 2 Policymakers
-breakdown](./images/media/image5.png){width="4.312723097112861in"
-height="3.234782370953631in"}
+<figure>
+<img src="./images/media/image5.png"
+style="width:4.31272in;height:3.23478in" />
+<figcaption><p>Figure 2 Policymakers breakdown</p></figcaption>
+</figure>
 
-**[Subjects]{.underline}**
+**<u>Subjects</u>**
 
 - **Local:** Local policymakers, including city councils, local
   governments, and environmental agencies, hold limited power within
@@ -431,7 +544,7 @@ height="3.234782370953631in"}
   for local climate resilience or disaster preparedness.
 
 - **Regional:** Regional authorities have moderate influence within
-  their territories and display strong interest in DestinE\'s
+  their territories and display strong interest in DestinE's
   capabilities. Regional councils for the environment and sustainable
   development can use DestinE to harmonise resource management across
   municipalities, fostering collaboration and improving ecological
@@ -446,7 +559,7 @@ height="3.234782370953631in"}
   and better articulate the needs of their unique ecological systems to
   larger-scale stakeholders.
 
-**[Players]{.underline}**
+**<u>Players</u>**
 
 - **National:** National policymakers, including ministries, parliament
   members, and emergency services, are central players due to their
@@ -458,16 +571,16 @@ height="3.234782370953631in"}
   national resilience to climate impacts.
 
 - **Continental:** Policymakers at this level, such as the European
-  Commission\'s Directorate-General for Climate Action and the European
+  Commission's Directorate-General for Climate Action and the European
   Environment Agency, wield considerable power and exhibit strong
   interest in DestinE. As stewards of EU-wide climate policies and
   programmes, they can use DestinE to harmonise climate action across
   member states, monitor compliance, and support policy design informed
-  by cutting-edge simulations and data integration. DestinE\'s
-  validation through use cases also builds trust among these actors,
-  further cementing its role as a cornerstone of EU climate initiatives.
+  by cutting-edge simulations and data integration. DestinE's validation
+  through use cases also builds trust among these actors, further
+  cementing its role as a cornerstone of EU climate initiatives.
 
-**[Context Setters]{.underline}**
+**<u>Context Setters</u>**
 
 - **Global:** Global policymakers, such as representatives of UN
   agencies and international NGOs, hold substantial influence but have a
@@ -476,7 +589,7 @@ height="3.234782370953631in"}
   its value in regional and national contexts, it has the potential to
   shape global climate policy discussions and inform frameworks for
   international cooperation. Ensuring that these stakeholders understand
-  the platform\'s potential will be crucial for DestinE\'s adoption on a
+  the platform's potential will be crucial for DestinE's adoption on a
   global scale.
 
 #### Decision makers
@@ -516,19 +629,21 @@ specific classification is shown in Figure 3 and may occur as follows:
   executives of major global corporations, and representatives of
   international organisations focused on climate and the environment.
 
-![Timeline Description automatically
-generated](./images/media/image6.png){width="6.267716535433071in"
-height="1.1944444444444444in"}
+<img src="./images/media/image6.png"
+style="width:6.26772in;height:1.19444in"
+alt="Timeline Description automatically generated" />
 
-![Figure 3 Decision makers
-breakdown](./images/media/image7.png){width="4.486624015748031in"
-height="3.365217629046369in"}
+<figure>
+<img src="./images/media/image7.png"
+style="width:4.48662in;height:3.36522in" />
+<figcaption><p>Figure 3 Decision makers breakdown</p></figcaption>
+</figure>
 
-**[Subjects]{.underline}**
+**<u>Subjects</u>**
 
 Both of the following may have power at the local level, but their
 limited sphere of influence excludes them from being considered
-"players" for the context of this analysis.
+“players” for the context of this analysis.
 
 - **Local:** The different types of subjects at a local level have
   different levels of local power and different needs, but all of them
@@ -548,7 +663,7 @@ limited sphere of influence excludes them from being considered
   advocacy as well as to easily disseminate their collective knowledge
   on the subjects.
 
-**[Players]{.underline}**
+**<u>Players</u>**
 
 - **Continental:** At an international level, business leaders and
   investors have more to gain from the functionalities of DestinE and
@@ -572,7 +687,7 @@ limited sphere of influence excludes them from being considered
   decision-making tool for global investments, as well as guiding
   development & infrastructure strategies.
 
-**[Context Setters]{.underline}**
+**<u>Context Setters</u>**
 
 - **Regional:** A category that might even be justifiably inserted in
   the Crowd quadrant, though kept in this one due to fluctuating levels
@@ -603,7 +718,7 @@ test hypotheses. Research and academia are a key stakeholders and
 beneficiaries of the DestinE platform, as access to the data used and
 produced as part of the Digital Twins will provide researchers with the
 tools to comprehend the intricate roles that the environment and people
-will play in determining the earth's future, and open up a range of new
+will play in determining the earth’s future, and open up a range of new
 research questions.
 
 Research and academia stakeholders can have different subcategories on
@@ -647,10 +762,10 @@ include a vast variety of subcategories such as:
 
 - Biologists
 
-![Diagram Description automatically
-generated](./images/media/image10.png){width="6.128082895888014in"
-height="2.7826498250218723in"} Figure 4 Indicative research and academia
-subcategories
+<img src="./images/media/image10.png"
+style="width:6.12808in;height:2.78265in"
+alt="Diagram Description automatically generated" /> Figure 4 Indicative
+research and academia subcategories
 
 Figure 4 shows indicative subcategories of research and academia. For
 each of these subcategories, the specific stakeholders involved may vary
@@ -663,19 +778,21 @@ agencies, and at a global level, they may include scientists at
 international research institutions. For the 14 major ecoregions,
 specific stakeholders may include representatives from local
 environmental NGOs, universities with research programs in the region,
-and government agencies responsible for managing the region\'s natural
+and government agencies responsible for managing the region's natural
 resources.
 
-![image](./images/media/image11.jpeg){width="4.313043525809274in"
-height="3.235977690288714in"}
+<figure>
+<img src="./images/media/image11.jpeg"
+style="width:4.31304in;height:3.23598in" />
+</figure>
 
-**[Subjects]{.underline}**
+**<u>Subjects</u>**
 
 Data scientists, environmental scientists, and biologists usually work
 in specialised or limited scientific fields and frequently lack the
 institutional clout or decision-making power needed to impact major
 projects like DestinE. Although their areas are relevant to Destination
-Earth\'s objectives, they are not sufficiently aligned to directly
+Earth's objectives, they are not sufficiently aligned to directly
 advance the project or make meaningful contributions. They have been
 categorised into this quadrant due to the fact that they often operate
 through institutions as advisors or members of teams that forward the
@@ -695,16 +812,16 @@ digital twin technologies. Through the development of cooperative
 networks, DestinE can link these researchers with more prestigious
 organisations, increasing the impact and quality of their research.
 
-**[Players]{.underline}**
+**<u>Players</u>**
 
 Climate scientists, meteorologists, ecologists, hydrologists, and
-important engineers are essential to DestinE\'s success and are included
+important engineers are essential to DestinE's success and are included
 in the Players category. These stakeholders have significant influence
 over the project and show a high degree of interest in it. They
 frequently already participate in significant technical and research
-initiatives that directly support DestinE\'s goals, so they not only
+initiatives that directly support DestinE's goals, so they not only
 benefit from the platform but also help shape its future. Participants
-are in a unique position to spur innovation, direct the project\'s
+are in a unique position to spur innovation, direct the project's
 priorities, and guarantee that its results meet the most recent
 legislative and scientific demands, such those of the European Green
 Deal. The climate scientists, meteorologists, hydrologists and engineers
@@ -718,16 +835,16 @@ The value propositions for Players are made to empower and acknowledge
 their contributions because of how important they are. By collaborating
 to establish research goals and making sure they are in line with global
 issues, DestinE may provide these stakeholders with chances to influence
-the initiative\'s vision. Through early access to its infrastructure,
+the initiative's vision. Through early access to its infrastructure,
 information, and tools, DestinE can empower key stakeholders to lead
 innovation in their domains and develop new applications.
 
-**[Context Setters]{.underline}**
+**<u>Context Setters</u>**
 
 This category includes computer scientists, environmental economics, and
 interdisciplinary social scientists. Due to a discrepancy between their
-current focus and the main goals of DestinE, these stakeholders---who
-frequently work at the forefront of their respective fields---are not
+current focus and the main goals of DestinE, these stakeholders—who
+frequently work at the forefront of their respective fields—are not
 fully involved with the initiative. A social scientist might research
 societal resilience, for instance, or a computer scientist might develop
 algorithms for artificial intelligence, but their immediate interests
@@ -735,27 +852,27 @@ might not coincide with digital twin technologies or climate science.
 
 DestinE should highlight value propositions that align with their
 priorities and areas of expertise in order to get their attention.
-Cross-disciplinary incentives, for example, can show how DestinE\'s
+Cross-disciplinary incentives, for example, can show how DestinE's
 datasets and tools can address issues in their fields, including
 improving AI models or evaluating the socioeconomic effects of climate
-change. While demonstrating the compatibility of DestinE\'s data with
+change. While demonstrating the compatibility of DestinE's data with
 external platforms might highlight its usefulness in a variety of
 applications beyond earth sciences, providing funding possibilities and
 encouraging collaborative research projects can encourage their
 participation. DestinE can increase its influence across disciplines and
 open up new synergies by fostering their interest.
 
-**[Crowd]{.underline}**
+**<u>Crowd</u>**
 
 These stakeholders work in ancillary domains that are not closely
-related to DestinE\'s primary areas of interest. Even if they are
-currently not very involved, they could nevertheless use DestinE\'s data
+related to DestinE's primary areas of interest. Even if they are
+currently not very involved, they could nevertheless use DestinE's data
 and capabilities for secondary or niche applications. For example,
-engineers may use DestinE\'s digital twin technology to solve certain
+engineers may use DestinE's digital twin technology to solve certain
 technological problems, while agronomists could use its climate data to
 maximise crop yields. Engineers in a general sense and agronomists have
 neither much power nor interest in DestinE, they have no touch points
-with the topics and don't have the power, neither individually nor
+with the topics and don’t have the power, neither individually nor
 collectively, to boost DestinE on a higher policy level or to bring it
 to broader attention.
 
@@ -800,9 +917,12 @@ following are referred:
 
 - Hardware companies
 
-![Figure 5 Indicative technology providers
-subcategories](./images/media/image12.png){width="4.474812992125984in"
-height="3.498642825896763in"}
+<figure>
+<img src="./images/media/image12.png"
+style="width:4.47481in;height:3.49864in" />
+<figcaption><p>Figure 5 Indicative technology providers
+subcategories</p></figcaption>
+</figure>
 
 Figure 5 shows indicative subcategories of technology providers. Unlike
 other stakeholder categories, technology providers do not have different
@@ -813,10 +933,10 @@ be applied to various spatial scales. However, the specific solutions
 they offer may vary based on the needs and characteristics of different
 regions or ecosystems.
 
-![](./images/media/image13.jpg){width="4.722916666666666in"
-height="3.542361111111111in"}
+<img src="./images/media/image13.jpg"
+style="width:4.72292in;height:3.54236in" />
 
-**[Subjects]{.underline}**
+**<u>Subjects</u>**
 
 - **Geographic Information Systems (GIS) providers:** Have the ability
   to visualise climate impacts, with comprehensive data sets from
@@ -825,7 +945,7 @@ height="3.542361111111111in"}
   compare and contrast existing models and as supplementary support to
   their existing climate-related information.
 
-- **Remote Sensing:** Utilise data to study and monitor the Earth's
+- **Remote Sensing:** Utilise data to study and monitor the Earth’s
   surface and oceans, which can be used to inform adaptation strategies,
   observe existing threats and prepare for future challenges. Remote
   sensing offers a unique approach to climate change and companies and
@@ -846,7 +966,7 @@ height="3.542361111111111in"}
   the DestinE Platform to act as a complementary tool for visualizing
   climate-related impacts and outcomes.
 
-**[Players]{.underline}**
+**<u>Players</u>**
 
 - **Software providers:** Have the capacity to develop technologies and
   solutions that can inform climate solutions and influence policy
@@ -855,7 +975,7 @@ height="3.542361111111111in"}
   Platform to guide their own activities and perform tasks more
   effectively.
 
-**[Context Setters]{.underline}**
+**<u>Context Setters</u>**
 
 - **HPC:** High Performace Computing (HPC) companies provide systems
   that can be used to research and develop solutions to combat
@@ -890,7 +1010,7 @@ height="3.542361111111111in"}
   DestinE Platform to learn about how it functions and its specific
   capabilities.
 
-**[Crowd]{.underline}**
+**<u>Crowd</u>**
 
 - **Hardware providers:** Can offer reliable tools to enhance
   productivity and output that can be used for climate change research
@@ -967,10 +1087,10 @@ alt="Timeline Description automatically generated" />
 <figcaption><p>Figure 6 Indicative industry companies</p></figcaption>
 </figure>
 
-![](./images/media/image15.jpg){width="3.9893613298337707in"
-height="2.9922419072615924in"}
+<img src="./images/media/image15.jpg"
+style="width:3.98936in;height:2.99224in" />
 
-**[Subjects]{.underline}**
+**<u>Subjects</u>**
 
 - **Consumer goods:** The consumer goods industry is a large sector,
   with global reach, that has the ability to influence consumer
@@ -981,7 +1101,7 @@ height="2.9922419072615924in"}
   and consequences, meaning they would want to be informed about climate
   challenges, making DestinE a useful tool for preventing disruptions
 
-**[Players]{.underline}**
+**<u>Players</u>**
 
 - **Energy and utility companies:** Can be classified as powerful due to
   their control over essential services and limited options for
@@ -1012,7 +1132,7 @@ height="2.9922419072615924in"}
   serve the agriculture and food sectors with information to build
   resilient food supply chains and production processes.
 
-**[Context Setters]{.underline}**
+**<u>Context Setters</u>**
 
 - **Transportation:** The transportation sector is a strong economic
   force as it connects goods, services and people, making it fundamental
@@ -1095,9 +1215,12 @@ them are presented in Figure 7 and may be analysed as follows:
   security, as well as the usability and accessibility of the platform
   and its associated tools.
 
-![Figure 7 Indicative DestinE Use case
-makers](./images/media/image16.png){width="6.267716535433071in"
-height="1.1666666666666667in"}
+<figure>
+<img src="./images/media/image16.png"
+style="width:6.26772in;height:1.16667in" />
+<figcaption><p>Figure 7 Indicative DestinE Use case
+makers</p></figcaption>
+</figure>
 
 #### Core DestinE Entities
 
@@ -1156,7 +1279,7 @@ include:
 
 The first step in developing the Strategic Plan involves determining the
 guiding vision of the Community, which reflects the goals and values it
-seeks to achieve. Subsequently, the \"Mission\" of the Community is
+seeks to achieve. Subsequently, the "Mission" of the Community is
 formulated, outlining the expected future state in accordance with the
 set vision.
 
@@ -1180,70 +1303,83 @@ factors (opportunities and threats), respectively.
 
 At this stage, Short-Term Objectives (up to end of 2024) that require
 immediate achievement were set along with Medium - Term Strategic
-Objectives (up to end of 2026) and Long -- Term Strategic Objectives (up
+Objectives (up to end of 2026) and Long – Term Strategic Objectives (up
 to end of 2030). For each objective, priority axes, actions, and an
 implementation timeline were defined.
 
-+-----------------------------------------------------------------------+
-| *The current Community Building and Management Strategy will serve as |
-| the main guide to support the effective development of DestinE        |
-| Community and its way forward to sustainability. This is a living     |
-| document which will be updated as required during the DEUC project.*  |
-|                                                                       |
-| *It is a dynamic plan encompassing a series of strategic actions      |
-| designed to grow the community. This strategic approach ensures       |
-| adaptability to contemporary technological, scientific and initiative |
-| related advancements, along with meeting the escalating demands of    |
-| end users and benefiting entities.*                                   |
-+=======================================================================+
+<table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<thead>
+<tr>
+<th><p><em>The current Community Building and Management Strategy will
+serve as the main guide to support the effective development of DestinE
+Community and its way forward to sustainability. This is a living
+document which will be updated as required during the DEUC
+project.</em></p>
+<p><em>It is a dynamic plan encompassing a series of strategic actions
+designed to grow the community. This strategic approach ensures
+adaptability to contemporary technological, scientific and initiative
+related advancements, along with meeting the escalating demands of end
+users and benefiting entities.</em></p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
 
 ## Vision, Mission and Values
 
 **Vision**
 
-  -----------------------------------------------------------------------
-  As we embark on the journey towards 2030, DestinE envisions a thriving
-  community, uniting passionate individuals and experts in a dynamic
-  ecosystem. The DestinE's community vision is to cultivate an
-  unparalleled network where the synergy of continuous interactions among
-  users, developers, and other stakeholders propels DestinE\'s evolution,
-  contributing significantly to the advancement and continuous use of the
-  DestinE Platform and the Destination Earth System overall.
-  -----------------------------------------------------------------------
-
-  -----------------------------------------------------------------------
+<table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<thead>
+<tr>
+<th>As we embark on the journey towards 2030, DestinE envisions a
+thriving community, uniting passionate individuals and experts in a
+dynamic ecosystem. The DestinE’s community vision is to cultivate an
+unparalleled network where the synergy of continuous interactions among
+users, developers, and other stakeholders propels DestinE's evolution,
+contributing significantly to the advancement and continuous use of the
+DestinE Platform and the Destination Earth System overall.</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
 
 **Mission**
 
-To advance towards the set Vision, the Strategy's mission unfolds around
-four key pillars (Figure 9). The first pillar, \"Unite,\" manifests as
-an aspiration to bring together all interested stakeholders and
-communities under a shared banner. Diversity and collaboration are
-considered, laying the foundation for a robust and inclusive community
-that transcends conventional boundaries.
+To advance towards the set Vision, the Strategy’s mission unfolds around
+four key pillars (Figure 9). The first pillar, "Unite," manifests as an
+aspiration to bring together all interested stakeholders and communities
+under a shared banner. Diversity and collaboration are considered,
+laying the foundation for a robust and inclusive community that
+transcends conventional boundaries.
 
-The second pillar, \"Engage,\" embodies the commitment to actively
-involve every member in the community. Through vibrant interactions,
-meaningful discussions, and collaborative efforts, DestinE community
-strives to create an environment where each voice is heard, valued, and
-actively contributes. The goal is to not only unite but to ensure that
-every united individual becomes an integral part of the community\'s
-fabric.
+The second pillar, "Engage," embodies the commitment to actively involve
+every member in the community. Through vibrant interactions, meaningful
+discussions, and collaborative efforts, DestinE community strives to
+create an environment where each voice is heard, valued, and actively
+contributes. The goal is to not only unite but to ensure that every
+united individual becomes an integral part of the community's fabric.
 
-\"Drive Usage and Growth,\" the third pillar, emphasizes the
-community\'s determination to increase the usage of DestinE\'s platform
-and services. User engagement takes center stage, empowering community
-members to actively participate in co-designing the platform and
-services evolution. This collaborative approach propels both the
-community and its offerings forward, fostering innovation and sustained
-growth.
+"Drive Usage and Growth," the third pillar, emphasizes the community's
+determination to increase the usage of DestinE's platform and services.
+User engagement takes center stage, empowering community members to
+actively participate in co-designing the platform and services
+evolution. This collaborative approach propels both the community and
+its offerings forward, fostering innovation and sustained growth.
 
-The fourth and final pillar, \"Sustain,\" underscores DestinE\'s
-commitment to creating a community that not only thrives but also
-sustains and grows itself. Through responsible practices, ethical
-decision-making, and a long-term vision, DestinE aims to be a beacon of
-sustainability in the digital landscape, ensuring the community\'s
-enduring impact.
+The fourth and final pillar, "Sustain," underscores DestinE's commitment
+to creating a community that not only thrives but also sustains and
+grows itself. Through responsible practices, ethical decision-making,
+and a long-term vision, DestinE aims to be a beacon of sustainability in
+the digital landscape, ensuring the community's enduring impact.
 
 <figure>
 <img src="./images/media/image18.png"
@@ -1255,7 +1391,7 @@ alt="Εικόνα που περιέχει στιγμιότυπο οθόνης, �
 **Values**
 
 Establishing values within a community is crucial as it helps to define
-the community\'s identity and purpose, fosters unity and cooperation,
+the community's identity and purpose, fosters unity and cooperation,
 encourages accountability and responsibility, provides guidance for
 decision-making, and enhances its reputation and trustworthiness. Along
 these lines, DestinE Users Community aspires to integrate the following
@@ -1296,7 +1432,7 @@ values:
   thoughts and ideas, ask questions, and get involved in discussions.
   Access to information, such as documentation, product roadmaps, and
   development plans, should be provided. When users provide feedback or
-  raise concerns, it\'s important to be responsive and transparent about
+  raise concerns, it's important to be responsive and transparent about
   how their feedback is being used. Regularly sharing updates about the
   progress of activities, features, or services should be enforced to
   build trust and demonstrate a commitment to transparency. It is also
@@ -1356,21 +1492,20 @@ values:
 The political landscape, particularly driven by initiatives like the
 European Green Deal, provides a favorable environment for the
 development of a digital twin of the Earth. The commitment to climate
-neutrality and sustainable economic growth enhances the initiative\'s
+neutrality and sustainable economic growth enhances the initiative's
 relevance and support. The alignment with Digital Strategy priorities
 further ensures that political backing facilitates transparency,
 accountability, and collaborative efforts between the public and private
-sectors, fostering an environment conducive to the initiative\'s
-success.
+sectors, fostering an environment conducive to the initiative's success.
 
 **Economic:**
 
 The economic factors, shaped by recent crises such as the Covid-19
 outbreak and geopolitical tensions, present both challenges and
 opportunities for the initiative. Economic uncertainties highlight the
-importance of the digital twin\'s role in providing a tool for modeling
+importance of the digital twin's role in providing a tool for modeling
 and simulating natural hazards, aiding in economic resilience. The
-initiative\'s success will be influenced by its ability to address
+initiative's success will be influenced by its ability to address
 economic concerns related to environmental uncertainties and contribute
 to stability through accurate adaptation strategies and mitigation
 measures.
@@ -1378,162 +1513,221 @@ measures.
 **Social:**
 
 The social fabric characterized by diversity and pluralism in Europe
-influences the initiative\'s development and adoption. EU policies on
+influences the initiative's development and adoption. EU policies on
 digital transformation and the reduction of social inequalities align
-positively with the initiative\'s goals. However, the challenge lies in
+positively with the initiative's goals. However, the challenge lies in
 managing the abundance of information accessible to EU citizens. The
-initiative\'s effectiveness will be influenced by its capacity to bridge
+initiative's effectiveness will be influenced by its capacity to bridge
 the gap between information abundance and societal needs, particularly
 in the context of social dynamics and responses to natural disasters.
 
 **Technological:**
 
-Technological factors play a pivotal role in shaping the initiative\'s
+Technological factors play a pivotal role in shaping the initiative's
 trajectory. Community contribution through voluntary data sharing is
 crucial for enhancing data quality, accuracy, and interoperability.
 While advanced technologies like AI offer opportunities, the initiative
 must navigate associated risks in cybersecurity and data protection.
 Compliance with EU legal frameworks ensures responsible technological
-integration. The initiative\'s success is contingent on its ability to
+integration. The initiative's success is contingent on its ability to
 adapt and leverage evolving technologies within the defined regulatory
 landscape, ensuring a secure and technologically robust digital twin.
 
-**\**
+**  **
 
 ## Internal environment (SWOT analysis)
 
-+-----------------------------------+-----------------------------------+
-| **Strengths**                     | **Weaknesses**                    |
-+===================================+===================================+
-| - Rising number of interested     | - DestinE is not very well known  |
-|   members.                        |   outside of its immediate        |
-|                                   |   community. This lack of         |
-| - Growing interest and awareness  |   awareness makes it difficult to |
-|   among potential members, with a |   attract new members of all      |
-|   steadily increasing base.       |   potential groups of users.      |
-|                                   |                                   |
-| - Proven ability to mobilize      | - Delays in platform and Use Case |
-|   members through events like the |   deployment limited broader      |
-|   Education CoP sessions and      |   engagement and feature          |
-|   initial hackathon planning.     |   demonstration.                  |
-|                                   |                                   |
-| - Alignment with key digital and  | Absence of dedicated social media |
-|   green transition topics         | channels tailored for DestinE     |
-|   (climate resilience,            | community promotion and           |
-|   data-driven services).Diversity | interaction.[^1]                  |
-|   of members - it brings together |                                   |
-|   a variety of perspectives and   | - Lack of a fully operational and |
-|   experiences that can be used to |   interactive online space for    |
-|   solve problems and innovate.    |   community networking and        |
-|                                   |   content sharing                 |
-| - Current members are active and  |                                   |
-|   engaged in the community.       | <!-- -->                          |
-|                                   |                                   |
-| - Regular physical meetup in      | - Currently limited exposure of   |
-|   place (User eXchange events).   |   what the platform could be, to  |
-|                                   |   end users.                      |
-| - Networking, collaboration and   |                                   |
-|   knowledge transfer with         | - Limited implementation of       |
-|   initiatives or communities of   |   structured co-design frameworks |
-|   similar caliber (eg.            |   and feedback integration        |
-|   Copernicus).                    |   processes.                      |
-|                                   |                                   |
-| - Continued dissemination through | - Platform maturity constraints   |
-|   regular content and             |   hinder the continuity of deeper |
-|   participation in forums and     |   community engagement activities |
-|   conferences.                    |                                   |
-|                                   |                                   |
-| - Diverse Use Cases are being     |                                   |
-|   developed bringing their        |                                   |
-|   communities onboard.            |                                   |
-+-----------------------------------+-----------------------------------+
-| **Threats**                       | **Opportunities**                 |
-+-----------------------------------+-----------------------------------+
-| - Delays in making DestinE        | - Promote codesign mentality as a |
-|   components available to the     |   community umbrella.             |
-|   community.                      |                                   |
-|                                   | - Partnerships or collaborations  |
-| - Challenges in transitioning     |   with other existing communities |
-|   from exploratory dialogue to    |   or initiatives.                 |
-|   actionable co-design outcomes   |                                   |
-|   without clear structures.       | - Technological advancements to   |
-|                                   |   leverage new technologies or    |
-| - Large number of user base       |   tools to enhance community      |
-|   making the congregation of the  |   engagement.                     |
-|   entire community in real life   |                                   |
-|   challenging.                    | - Funding opportunities for new   |
-|                                   |   projects and collaborations     |
-| - The decentralized nature of the |   under the DestinE umbrella      |
-|   community could lead to         |   raise awareness and engagement  |
-|   fragmentation and siloed        |   about the community.            |
-|   efforts, hindering              |                                   |
-|   collaboration and collective    |                                   |
-|   impact.                         |                                   |
-|                                   |                                   |
-| - Maintaining the community\'s    |                                   |
-|   open and collaborative nature.  |                                   |
-+-----------------------------------+-----------------------------------+
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: center;"><strong>Strengths</strong></th>
+<th style="text-align: center;"><strong>Weaknesses</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><ul>
+<li><p>Rising number of interested members.</p></li>
+<li><p>Growing interest and awareness among potential members, with a
+steadily increasing base.</p></li>
+<li><p>Proven ability to mobilize members through events like the
+Education CoP sessions and initial hackathon planning.</p></li>
+<li><p>Alignment with key digital and green transition topics (climate
+resilience, data-driven services).Diversity of members - it brings
+together a variety of perspectives and experiences that can be used to
+solve problems and innovate.</p></li>
+<li><p>Current members are active and engaged in the community.</p></li>
+<li><p>Regular physical meetup in place (User eXchange events).</p></li>
+<li><p>Networking, collaboration and knowledge transfer with initiatives
+or communities of similar caliber (eg. Copernicus).</p></li>
+<li><p>Continued dissemination through regular content and participation
+in forums and conferences.</p></li>
+<li><p>Diverse Use Cases are being developed bringing their communities
+onboard.</p></li>
+</ul></td>
+<td><ul>
+<li><p>DestinE is not very well known outside of its immediate
+community. This lack of awareness makes it difficult to attract new
+members of all potential groups of users.</p></li>
+<li><p>Delays in platform and Use Case deployment limited broader
+engagement and feature demonstration.</p></li>
+</ul>
+<p>Absence of dedicated social media channels tailored for DestinE
+community promotion and interaction.<a href="#fn1" class="footnote-ref"
+id="fnref1" role="doc-noteref"><sup>1</sup></a></p>
+<ul>
+<li><p>Lack of a fully operational and interactive online space for
+community networking and content sharing</p></li>
+</ul>
+<ul>
+<li><p>Currently limited exposure of what the platform could be, to end
+users.</p></li>
+<li><p>Limited implementation of structured co-design frameworks and
+feedback integration processes.</p></li>
+<li><p>Platform maturity constraints hinder the continuity of deeper
+community engagement activities</p></li>
+</ul></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>Threats</strong></td>
+<td style="text-align: center;"><strong>Opportunities</strong></td>
+</tr>
+<tr>
+<td><ul>
+<li><p>Delays in making DestinE components available to the
+community.</p></li>
+<li><p>Challenges in transitioning from exploratory dialogue to
+actionable co-design outcomes without clear structures.</p></li>
+<li><p>Large number of user base making the congregation of the entire
+community in real life challenging.</p></li>
+<li><p>The decentralized nature of the community could lead to
+fragmentation and siloed efforts, hindering collaboration and collective
+impact.</p></li>
+<li><p>Maintaining the community's open and collaborative
+nature.</p></li>
+</ul></td>
+<td><ul>
+<li><p>Promote codesign mentality as a community umbrella.</p></li>
+<li><p>Partnerships or collaborations with other existing communities or
+initiatives.</p></li>
+<li><p>Technological advancements to leverage new technologies or tools
+to enhance community engagement.</p></li>
+<li><p>Funding opportunities for new projects and collaborations under
+the DestinE umbrella raise awareness and engagement about the
+community.</p></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+<section id="footnotes" class="footnotes footnotes-end-of-document"
+role="doc-endnotes">
+<hr />
+<ol>
+<li id="fn1"><p>As from September 2025 a dedicated social media channel
+has been established on LinkedIn<a href="#fnref1" class="footnote-back"
+role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section>
 
 ## Strategic Objectives 
 
-  -----------------------------------------------------------------------
-                    **Short -- Term Objectives (2024)**
-  -----------------------------------------------------------------------
-     STO1 -- Community Members base expansion to 3K by the end of 2024
+<table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: center;"><strong>Short – Term Objectives
+(2024)</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">STO1 – Community Members base expansion
+to 3K by the end of 2024</td>
+</tr>
+<tr>
+<td style="text-align: center;">STO2 – Enforce user interaction with
+DestinE Platform – reach 1K registrations by the end of 2024</td>
+</tr>
+<tr>
+<td style="text-align: center;">STO3 – Develop and set a co-design
+framework within the community</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>Medium – Term Objectives
+(2026)</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">MTO1 – Community members and DestinE
+Platform user base expansion to 10K by the end of 2026</td>
+</tr>
+<tr>
+<td style="text-align: center;">MTO2 – Community members, CoPs and
+DestinE Platform user interactions takes place within the DestinE
+platform</td>
+</tr>
+<tr>
+<td style="text-align: center;">MTO3 – Existing CoPs to increase their
+membership and operate independently and new CoPs to be naturally formed
+around topics of significant interest</td>
+</tr>
+<tr>
+<td style="text-align: center;">MTO4 – Establishment of a user-driven
+recommendations and requirements protocol for seamless communication and
+interaction with DestinE Platformand DestinE developers.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>Long – Term Objectives
+(2030)</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">LTO1 – Community members and DESP user
+base expansion to 100K by the end of 2030</td>
+</tr>
+<tr>
+<td style="text-align: center;">LTO2 – Community grows organically and
+is self-sustained</td>
+</tr>
+<tr>
+<td style="text-align: center;">LTO3 – Community and user needs are
+translated into targeted DestinE Platform features and services
+enhancements via officially established protocols</td>
+</tr>
+</tbody>
+</table>
 
-    STO2 -- Enforce user interaction with DestinE Platform -- reach 1K
-                     registrations by the end of 2024
+<table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<thead>
+<tr>
+<th><em>Note: The current version of this document presents priority
+axes and actions for the short-term objectives (2024).</em></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
 
-    STO3 -- Develop and set a co-design framework within the community
-
-                   **Medium -- Term Objectives (2026)**
-
-   MTO1 -- Community members and DestinE Platform user base expansion to
-                          10K by the end of 2026
-
-  MTO2 -- Community members, CoPs and DestinE Platform user interactions
-                  takes place within the DestinE platform
-
-      MTO3 -- Existing CoPs to increase their membership and operate
-    independently and new CoPs to be naturally formed around topics of
-                           significant interest
-
-  MTO4 -- Establishment of a user-driven recommendations and requirements
-     protocol for seamless communication and interaction with DestinE
-                      Platformand DestinE developers.
-
-                    **Long -- Term Objectives (2030)**
-
-   LTO1 -- Community members and DESP user base expansion to 100K by the
-                                end of 2030
-
-         LTO2 -- Community grows organically and is self-sustained
-
-   LTO3 -- Community and user needs are translated into targeted DestinE
-  Platform features and services enhancements via officially established
-                                 protocols
-  -----------------------------------------------------------------------
-
-  -----------------------------------------------------------------------
-  *Note: The current version of this document presents priority axes and
-  actions for the short-term objectives (2024).*
-  -----------------------------------------------------------------------
-
-  -----------------------------------------------------------------------
-
-## Short-Term Objectives -- 2024 
+## Short-Term Objectives – 2024 
 
 Embarking on the journey to establish a thriving DestinE Platform by
 2030, our strategic approach involves meticulous planning and the early
 cultivation of a vibrant community. Recognising the significance of
 community engagement in shaping the success of the platform and the
 initiative in general, we aim to lay the groundwork well before the
-initial launch -- foreseen for 2024. To achieve this, a set of
-short-term objectives are outlined that focus on community-building
-initiatives and community members engagement to create a robust
-foundation for DestinE Platform's launch but also laying the groundwork
-for a sustained, interactive, and supportive community that will propel
-our success well into the future.
+initial launch – foreseen for 2024. To achieve this, a set of short-term
+objectives are outlined that focus on community-building initiatives and
+community members engagement to create a robust foundation for DestinE
+Platform’s launch but also laying the groundwork for a sustained,
+interactive, and supportive community that will propel our success well
+into the future.
 
 **STO1 - Community Members base expansion to 3K by the end of 2024**
 
@@ -1556,7 +1750,7 @@ registered to the DestinE Platform.
 To achieve this strategic objective the following Priority Axes and
 actions are set.
 
-**Priority Axis -- PA1.1: DEUC Communities of Practice enabled**
+**Priority Axis – PA1.1: DEUC Communities of Practice enabled**
 
 Communities of Practice (CoPs) CoPs are groups of people who share a
 common interest, concern, or passion and come together to learn from
@@ -1585,7 +1779,7 @@ In the context of the DEUC project, CoPs will be used to:
   Platform that will meet the needs of a wide range of users.
 
 - Test and validate the developed features and functionalities with the
-  end users -- which according to the feedback solicited can be refined
+  end users – which according to the feedback solicited can be refined
   to meet the user needs.
 
 - Foster collaboration between individuals with different backgrounds
@@ -1604,10 +1798,10 @@ ambassadors for the platform within their respective communities.
 In addition, CoPs can be exploited in the context of the work and
 projects carried out by the three Entrusted Entities (3Es): ESA, ECMWF
 and EUMETSAT in terms of joint participation in events, usage of CoPs
-activities to generate insights for 3Es' work, organisation of joint
+activities to generate insights for 3Es’ work, organisation of joint
 events where all communities can work together etc.
 
-**CoPs -- Organic creation approach**
+**CoPs – Organic creation approach**
 
 Recognising the existence of various communities already in fields
 related to DestinE initiative, our approach is to harness their
@@ -1649,10 +1843,9 @@ validation of existing DestinE Platform capabilities, as well as
 discussions on the design of future DestinE Platform capabilities
 (**Figure 10**).
 
-![Εικόνα που περιέχει κείμενο, επαγγελματική κάρτα, στιγμιότυπο οθόνης,
-γραμματοσειρά Περιγραφή που δημιουργήθηκε
-αυτόματα](./images/media/image19.png){width="3.9583333333333335in"
-height="2.7941174540682416in"}
+<img src="./images/media/image19.png"
+style="width:3.95833in;height:2.79412in"
+alt="Εικόνα που περιέχει κείμενο, επαγγελματική κάρτα, στιγμιότυπο οθόνης, γραμματοσειρά Περιγραφή που δημιουργήθηκε αυτόματα" />
 
 **Figure 10: Areas that CoPs activities may focus**
 
@@ -1665,7 +1858,7 @@ opportunities for co-development.
 
 Activities in 2024 focus on establishing the first set of CoPs. These
 may evolve from existing communities or emerge as new groups. Key
-activities\
+activities  
 during this phase include:
 
 - **Onboarding Initial Members**: Recruiting participants who are
@@ -1682,10 +1875,10 @@ during this phase include:
   Platform.
 
 The operation of CoPs shall be supported by a governance model which has
-to be flexible and adaptable to the community\'s changing needs and
+to be flexible and adaptable to the community's changing needs and
 circumstances as well as transparent and inclusive, ensuring that all
-members have a say in the community\'s activities. In the context of
-DEUC project each CoP may be led by a Community Facilitator, who will be
+members have a say in the community's activities. In the context of DEUC
+project each CoP may be led by a Community Facilitator, who will be
 responsible for facilitating communication and collaboration within the
 group. In case of existing communities, the Community Facilitator from
 DEUC project side will be responsible for facilitating communication and
@@ -1704,33 +1897,52 @@ discussion forums, and training materials.
 At the current stage of the DEUC project, anyone who is interested in
 applying for becoming a member of DestinE community can apply online via
 a dedicated form in the website
-([[https://destination-earth.eu/destine-community/become-part-of-the-destine-community/]{.underline}](https://destination-earth.eu/destine-community/become-part-of-the-destine-community/)).
+([<u>https://destination-earth.eu/destine-community/become-part-of-the-destine-community/</u>](https://destination-earth.eu/destine-community/become-part-of-the-destine-community/)).
 
 CoPs are designed to function both physically and online. Physical
 operation of CoPs will take place via the organisation or participation
 in physical events. Online operation during 2024 will take place via
 online meetings (see PA1.3).
 
-  -----------------------------------------------------------------------
-  **Actions**                                             **Timetable**
-  ----------------------------------------------------- -----------------
-  A1.1.1 Map, connect and collaborate with existing           2024
-  communities and initiatives (at least 3 synergies     
-  with existing communities).                           
-
-  A1.1.2 Set-up of at least 2 CoPs leveraging also the        2024
-  DEUC project's Use Cases communities to be formed.    
-
-  A1.1.3 Develop a CoP governance framework.                  2024
-
-  A1.1.4 Implementation of CoPs events and meetings           2024
-  (linked with PA1.2).                                  
-
-  A1.1.5 Establish structured feedback mechanisms to          2024
-  gather insights on the effectiveness of CoP           
-  activities. Use feedback to continuously refine and   
-  enhance the CoP experience.                           
-  -----------------------------------------------------------------------
+<table>
+<colgroup>
+<col style="width: 75%" />
+<col style="width: 24%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: center;"><strong>Actions</strong></th>
+<th style="text-align: center;"><strong>Timetable</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A1.1.1 Map, connect and collaborate with existing communities and
+initiatives (at least 3 synergies with existing communities).</td>
+<td style="text-align: center;">2024</td>
+</tr>
+<tr>
+<td>A1.1.2 Set-up of at least 2 CoPs leveraging also the DEUC project’s
+Use Cases communities to be formed.</td>
+<td style="text-align: center;">2024</td>
+</tr>
+<tr>
+<td>A1.1.3 Develop a CoP governance framework.</td>
+<td style="text-align: center;">2024</td>
+</tr>
+<tr>
+<td>A1.1.4 Implementation of CoPs events and meetings (linked with
+PA1.2).</td>
+<td style="text-align: center;">2024</td>
+</tr>
+<tr>
+<td>A1.1.5 Establish structured feedback mechanisms to gather insights
+on the effectiveness of CoP activities. Use feedback to continuously
+refine and enhance the CoP experience.</td>
+<td style="text-align: center;">2024</td>
+</tr>
+</tbody>
+</table>
 
 **Update July 2025**
 
@@ -1755,8 +1967,8 @@ CoP, have been temporarily postponed. Addressing the technical and
 functional maturity of the DestinE Platform remains a key prerequisite
 for resuming and fully realizing the potential of these CoPs.
 
-Looking forward, and in alignment with the \"D2.3 Roadmap for a wider
-DestinE system uptake,\" it is clear that the user community requires
+Looking forward, and in alignment with the "D2.3 Roadmap for a wider
+DestinE system uptake," it is clear that the user community requires
 tailored actions for each target group. These actions must be informed
 by expected usage patterns, specific user needs, and sectoral relevance.
 Therefore, the establishment and continued development of CoPs remain
@@ -1764,8 +1976,8 @@ highly meaningful. Efforts should be made in the coming years to ensure
 platform maturity, enabling these communities to effectively use DestinE
 resources and significantly enhance user engagement and uptake.
 
-**Priority Axis -- PA1.2: Community engagement via organization of
-events and activities**
+**Priority Axis – PA1.2: Community engagement via organization of events
+and activities**
 
 To enhance community engagement and foster growth, PA1.2 focus on
 organizing events and activities to create a vibrant and interactive
@@ -1785,331 +1997,589 @@ events will be developed to enhance community engagement by providing
 meaningful and enjoyable experiences, creating a dynamic ecosystem that
 attracts new members and retains existing ones.
 
-  -----------------------------------------------------------------------
-  **Actions**                                             **Timetable**
-  ----------------------------------------------------- -----------------
-  A1.4.1 Online events planning and content development       2024
-  (at least 6).                                         
-
-  A1.4.2 Organization of 1 physical community event.          2024
-
-  A1.4.3 Utilization of various communication channels,       2024
-  such as newsletters, social media, relevant websites, 
-  to announce upcoming events.                          
-
-  A.1.4.4 Use of DestinE website or DestinE Platform to       2024
-  document key insights of the community activities.    
-
-  A.1.4.5 Conduct surveys or polls or post event              2024
-  follow-up to gauge community interests and            
-  preferences, ensuring event themes resonate with      
-  members                                               
-  -----------------------------------------------------------------------
+<table>
+<colgroup>
+<col style="width: 75%" />
+<col style="width: 24%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: center;"><strong>Actions</strong></th>
+<th style="text-align: center;"><strong>Timetable</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A1.4.1 Online events planning and content development (at least
+6).</td>
+<td style="text-align: center;">2024</td>
+</tr>
+<tr>
+<td>A1.4.2 Organization of 1 physical community event.</td>
+<td style="text-align: center;">2024</td>
+</tr>
+<tr>
+<td>A1.4.3 Utilization of various communication channels, such as
+newsletters, social media, relevant websites, to announce upcoming
+events.</td>
+<td style="text-align: center;">2024</td>
+</tr>
+<tr>
+<td>A.1.4.4 Use of DestinE website or DestinE Platform to document key
+insights of the community activities.</td>
+<td style="text-align: center;">2024</td>
+</tr>
+<tr>
+<td>A.1.4.5 Conduct surveys or polls or post event follow-up to gauge
+community interests and preferences, ensuring event themes resonate with
+members</td>
+<td style="text-align: center;">2024</td>
+</tr>
+</tbody>
+</table>
 
 ***An indicative plan of the Actions A.1.4.1 and A1.4.2 is presented
 below:***
 
-+-------------+----------------------------------------------------------+
-| **Activity  | **Introduction to the DestinE Community**                |
-| 1**         |                                                          |
-+=============+==========================================================+
-| Date        | 1^st^ week of March (eg. 29/2/2024)                      |
-+-------------+----------------------------------------------------------+
-| Duration    | 2 hours                                                  |
-+-------------+----------------------------------------------------------+
-| Meeting     | AUTh                                                     |
-| Lead        |                                                          |
-+-------------+----------------------------------------------------------+
-| Audience    | Community members                                        |
-+-------------+----------------------------------------------------------+
-| Type        | Seminar                                                  |
-+-------------+----------------------------------------------------------+
-| Mode        | Online                                                   |
-+-------------+----------------------------------------------------------+
-| Description | This initial meeting is an opening of the interactions   |
-|             | to the community as it has developed to the day.         |
-|             | Participants will be informed of                         |
-|             |                                                          |
-|             | - the DestinE Community Vision,                          |
-|             |                                                          |
-|             | - what the current state of the community is,            |
-|             |                                                          |
-|             | - the Community Building Strategy                        |
-|             |                                                          |
-|             | - how the community is expected to work                  |
-|             |                                                          |
-|             | - the Communities of Practice (CoP) and                  |
-|             |                                                          |
-|             | - how they can and will be involved                      |
-+-------------+----------------------------------------------------------+
-| Material to | Presentations for plenary                                |
-| prepare     |                                                          |
-+-------------+----------------------------------------------------------+
-| Actions     | Share upcoming CoP events, including brief description   |
-| post-event  | of each                                                  |
-+-------------+----------------------------------------------------------+
+<table>
+<colgroup>
+<col style="width: 17%" />
+<col style="width: 82%" />
+</colgroup>
+<thead>
+<tr>
+<th><strong>Activity 1</strong></th>
+<th><strong>Introduction to the DestinE Community</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Date</td>
+<td>1<sup>st</sup> week of March (eg. 29/2/2024)</td>
+</tr>
+<tr>
+<td>Duration</td>
+<td>2 hours</td>
+</tr>
+<tr>
+<td>Meeting Lead</td>
+<td>AUTh</td>
+</tr>
+<tr>
+<td>Audience</td>
+<td>Community members</td>
+</tr>
+<tr>
+<td>Type</td>
+<td>Seminar</td>
+</tr>
+<tr>
+<td>Mode</td>
+<td>Online</td>
+</tr>
+<tr>
+<td>Description</td>
+<td><p>This initial meeting is an opening of the interactions to the
+community as it has developed to the day. Participants will be informed
+of</p>
+<ul>
+<li><p>the DestinE Community Vision,</p></li>
+<li><p>what the current state of the community is,</p></li>
+<li><p>the Community Building Strategy</p></li>
+<li><p>how the community is expected to work</p></li>
+<li><p>the Communities of Practice (CoP) and</p></li>
+<li><p>how they can and will be involved</p></li>
+</ul></td>
+</tr>
+<tr>
+<td>Material to prepare</td>
+<td>Presentations for plenary</td>
+</tr>
+<tr>
+<td>Actions post-event</td>
+<td>Share upcoming CoP events, including brief description of each</td>
+</tr>
+</tbody>
+</table>
 
-+-------------+----------------------------------------------------------+
-| **Activity  | **1st individual Community of Practice (CoP) meeting**   |
-| 2**         |                                                          |
-+=============+==========================================================+
-| Date        | 9^th^ April 2024                                         |
-+-------------+----------------------------------------------------------+
-| Duration    | 1,5-2 hours                                              |
-+-------------+----------------------------------------------------------+
-| Meeting     | CoP Lead - AUTh                                          |
-| Lead        |                                                          |
-+-------------+----------------------------------------------------------+
-| Audience    | CoP interested community members                         |
-+-------------+----------------------------------------------------------+
-| Type        | Seminar + Discussion session                             |
-+-------------+----------------------------------------------------------+
-| Mode        | Online                                                   |
-+-------------+----------------------------------------------------------+
-| Description | Per CoP, DestinE community members approach this meeting |
-|             | in order to be informed:                                 |
-|             |                                                          |
-|             | - on the interests of the CoP                            |
-|             |                                                          |
-|             | - on the CoP members and                                 |
-|             |                                                          |
-|             | - of existing Use Cases already of interest for the CoP  |
-|             |                                                          |
-|             | Additionally, in the discussion session, through         |
-|             | interactive means, CoP community members will be given   |
-|             | the opportunity to voice their thoughts live in regards  |
-|             | to:                                                      |
-|             |                                                          |
-|             | - specific themes of interest, they would like the CoP   |
-|             |   to engage with                                         |
-|             |                                                          |
-|             | - share projects and Use Cases which could be presented  |
-|             |   and showcased within a next CoP meeting                |
-|             |                                                          |
-|             | - questions that still remain, regarding DestinE         |
-|             |                                                          |
-|             | - present themselves to the CoP, as to their interest,   |
-|             |   affiliation and aspirations of being part of the CoP   |
-|             |                                                          |
-|             | - how they actively work without DestinE & how they      |
-|             |   imagine working WITH DestinE.                          |
-+-------------+----------------------------------------------------------+
-| Material    | Presentation for CoP plenary                             |
-|             |                                                          |
-|             | Slido questionnaire                                      |
-+-------------+----------------------------------------------------------+
-| Actions     | Analysis of slido responses to gather recommendations on |
-| post-event  |                                                          |
-|             | - DestinE Platform system                                |
-|             |                                                          |
-|             | - Community activities                                   |
-|             |                                                          |
-|             | - Member Hopes & opportunities                           |
-+-------------+----------------------------------------------------------+
+<table>
+<colgroup>
+<col style="width: 17%" />
+<col style="width: 82%" />
+</colgroup>
+<thead>
+<tr>
+<th><strong>Activity 2</strong></th>
+<th><strong>1st individual Community of Practice (CoP)
+meeting</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Date</td>
+<td>9<sup>th</sup> April 2024</td>
+</tr>
+<tr>
+<td>Duration</td>
+<td>1,5-2 hours</td>
+</tr>
+<tr>
+<td>Meeting Lead</td>
+<td>CoP Lead - AUTh</td>
+</tr>
+<tr>
+<td>Audience</td>
+<td>CoP interested community members</td>
+</tr>
+<tr>
+<td>Type</td>
+<td>Seminar + Discussion session</td>
+</tr>
+<tr>
+<td>Mode</td>
+<td>Online</td>
+</tr>
+<tr>
+<td>Description</td>
+<td><p>Per CoP, DestinE community members approach this meeting in order
+to be informed:</p>
+<ul>
+<li><p>on the interests of the CoP</p></li>
+<li><p>on the CoP members and</p></li>
+<li><p>of existing Use Cases already of interest for the CoP</p></li>
+</ul>
+<p>Additionally, in the discussion session, through interactive means,
+CoP community members will be given the opportunity to voice their
+thoughts live in regards to:</p>
+<ul>
+<li><p>specific themes of interest, they would like the CoP to engage
+with</p></li>
+<li><p>share projects and Use Cases which could be presented and
+showcased within a next CoP meeting</p></li>
+<li><p>questions that still remain, regarding DestinE</p></li>
+<li><p>present themselves to the CoP, as to their interest, affiliation
+and aspirations of being part of the CoP</p></li>
+<li><p>how they actively work without DestinE &amp; how they imagine
+working WITH DestinE.</p></li>
+</ul></td>
+</tr>
+<tr>
+<td>Material</td>
+<td><p>Presentation for CoP plenary</p>
+<p>Slido questionnaire</p></td>
+</tr>
+<tr>
+<td>Actions post-event</td>
+<td><p>Analysis of slido responses to gather recommendations on</p>
+<ul>
+<li><p>DestinE Platform system</p></li>
+<li><p>Community activities</p></li>
+<li><p>Member Hopes &amp; opportunities</p></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
 
-+-------------+----------------------------------------------------------+
-| **Activity  | **2nd individual Community of Practice (CoP) meeting**   |
-| 3**         |                                                          |
-+=============+==========================================================+
-| Date        | 16^th^ May 2024                                          |
-+-------------+----------------------------------------------------------+
-| Duration    | 1,5-2 hours                                              |
-+-------------+----------------------------------------------------------+
-| Meeting     | CoP Lead - AUTh                                          |
-| Lead        |                                                          |
-+-------------+----------------------------------------------------------+
-| Audience    | CoP interested community members                         |
-+-------------+----------------------------------------------------------+
-| Type        | FireSide Chat with existing DestinE Use Case +           |
-|             | Networking                                               |
-+-------------+----------------------------------------------------------+
-| Mode        | Online                                                   |
-+-------------+----------------------------------------------------------+
-| Description | CoP members are given the opportunity to interact with   |
-|             | individuals from existing Use Cases on DestinE.          |
-|             | Following an initial presentation of the Use Case, a     |
-|             | fireside chat can help open up themes of interest for    |
-|             | the CoP.                                                 |
-|             |                                                          |
-|             | - why is this Use Case relevant,                         |
-|             |                                                          |
-|             | - what is the experience of developing the Use Case,     |
-|             |                                                          |
-|             | - how it is to develop it within DestinE Platform and    |
-|             |   DestinE                                                |
-|             |                                                          |
-|             | - what opportunities and new thoughts have developed as  |
-|             |   being part of DestinE                                  |
-|             |                                                          |
-|             | - what have been the main challenges, and how have they  |
-|             |   been addressed, if not yet overcome?                   |
-|             |                                                          |
-|             | - inside tips, good practices and things to avoid when   |
-|             |   working within such a framework                        |
-+-------------+----------------------------------------------------------+
-| Material    | Discussion themes for Fireside Chat                      |
-|             |                                                          |
-|             | List of prevocational question to be shared live on the  |
-|             | chat, during the event, in order to invite responses by  |
-|             | the audience.                                            |
-|             |                                                          |
-|             | Slido questionnaire & live Q&A                           |
-+-------------+----------------------------------------------------------+
-| Actions     | Analysis of discussion to gather user recommendations on |
-| post-event  |                                                          |
-|             | - DestinE Platform system                                |
-|             |                                                          |
-|             | - Community activities                                   |
-|             |                                                          |
-|             | - Member Needs & Sceptiscism (thoughts)                  |
-+-------------+----------------------------------------------------------+
+<table>
+<colgroup>
+<col style="width: 17%" />
+<col style="width: 82%" />
+</colgroup>
+<thead>
+<tr>
+<th><strong>Activity 3</strong></th>
+<th><strong>2nd individual Community of Practice (CoP)
+meeting</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Date</td>
+<td>16<sup>th</sup> May 2024</td>
+</tr>
+<tr>
+<td>Duration</td>
+<td>1,5-2 hours</td>
+</tr>
+<tr>
+<td>Meeting Lead</td>
+<td>CoP Lead - AUTh</td>
+</tr>
+<tr>
+<td>Audience</td>
+<td>CoP interested community members</td>
+</tr>
+<tr>
+<td>Type</td>
+<td>FireSide Chat with existing DestinE Use Case + Networking</td>
+</tr>
+<tr>
+<td>Mode</td>
+<td>Online</td>
+</tr>
+<tr>
+<td>Description</td>
+<td><p>CoP members are given the opportunity to interact with
+individuals from existing Use Cases on DestinE. Following an initial
+presentation of the Use Case, a fireside chat can help open up themes of
+interest for the CoP.</p>
+<ul>
+<li><p>why is this Use Case relevant,</p></li>
+<li><p>what is the experience of developing the Use Case,</p></li>
+<li><p>how it is to develop it within DestinE Platform and
+DestinE</p></li>
+<li><p>what opportunities and new thoughts have developed as being part
+of DestinE</p></li>
+<li><p>what have been the main challenges, and how have they been
+addressed, if not yet overcome?</p></li>
+<li><p>inside tips, good practices and things to avoid when working
+within such a framework</p></li>
+</ul></td>
+</tr>
+<tr>
+<td>Material</td>
+<td><p>Discussion themes for Fireside Chat</p>
+<p>List of prevocational question to be shared live on the chat, during
+the event, in order to invite responses by the audience.</p>
+<p>Slido questionnaire &amp; live Q&amp;A</p></td>
+</tr>
+<tr>
+<td>Actions post-event</td>
+<td><p>Analysis of discussion to gather user recommendations on</p>
+<ul>
+<li><p>DestinE Platform system</p></li>
+<li><p>Community activities</p></li>
+<li><p>Member Needs &amp; Sceptiscism (thoughts)</p></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
 
-+--------------+----------------------------------------------------------+
-| **Activities | **3^rd^ - 4^th^ - 5^th^ individual Community of Practice |
-| 4-5-6**      | (CoP) meeting**                                          |
-+==============+==========================================================+
-| Date         | June, July 2024                                          |
-+--------------+----------------------------------------------------------+
-| Duration     | 1,5-2 hours                                              |
-+--------------+----------------------------------------------------------+
-| Meeting Lead | CoP Lead - AUTh                                          |
-+--------------+----------------------------------------------------------+
-| Audience     | CoP interested community members                         |
-+--------------+----------------------------------------------------------+
-| Type         | Seminar in response to CoP members themes + Networking   |
-+--------------+----------------------------------------------------------+
-| Mode         | Online                                                   |
-+--------------+----------------------------------------------------------+
-| Description  | An initial presentation and discussion will be organized |
-|              | based on the CoP community members themes of interest    |
-|              | expressed in the 1^st^ CoP meeting (March 2024). This    |
-|              | will be researched, shared and developed by the CoP      |
-|              | Lead.                                                    |
-+--------------+----------------------------------------------------------+
-| Material     | Presentation for CoP plenary                             |
-|              |                                                          |
-|              | Slido questionnaire                                      |
-+--------------+----------------------------------------------------------+
-| Actions      | Analysis of discussion to gather user recommendations on |
-| post-event   |                                                          |
-|              | - DestinE Platform system                                |
-|              |                                                          |
-|              | - Community activities                                   |
-|              |                                                          |
-|              | - Member Needs & Sceptiscism (thoughts)                  |
-+--------------+----------------------------------------------------------+
+<table>
+<colgroup>
+<col style="width: 17%" />
+<col style="width: 82%" />
+</colgroup>
+<thead>
+<tr>
+<th><strong>Activities 4-5-6</strong></th>
+<th><strong>3<sup>rd</sup> - 4<sup>th</sup> - 5<sup>th</sup> individual
+Community of Practice (CoP) meeting</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Date</td>
+<td>June, July 2024</td>
+</tr>
+<tr>
+<td>Duration</td>
+<td>1,5-2 hours</td>
+</tr>
+<tr>
+<td>Meeting Lead</td>
+<td>CoP Lead - AUTh</td>
+</tr>
+<tr>
+<td>Audience</td>
+<td>CoP interested community members</td>
+</tr>
+<tr>
+<td>Type</td>
+<td>Seminar in response to CoP members themes + Networking</td>
+</tr>
+<tr>
+<td>Mode</td>
+<td>Online</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>An initial presentation and discussion will be organized based on
+the CoP community members themes of interest expressed in the
+1<sup>st</sup> CoP meeting (March 2024). This will be researched, shared
+and developed by the CoP Lead.</td>
+</tr>
+<tr>
+<td>Material</td>
+<td><p>Presentation for CoP plenary</p>
+<p>Slido questionnaire</p></td>
+</tr>
+<tr>
+<td>Actions post-event</td>
+<td><p>Analysis of discussion to gather user recommendations on</p>
+<ul>
+<li><p>DestinE Platform system</p></li>
+<li><p>Community activities</p></li>
+<li><p>Member Needs &amp; Sceptiscism (thoughts)</p></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
 
 ***DestinE Hackathons***
 
-+-------------+----------------------------------------------------------+
-| **Activity  | **Envisioning the Impact of DestinE Challenge**          |
-| A**         |                                                          |
-+=============+==========================================================+
-| Launch Date | ±20 March 2024                                           |
-+-------------+----------------------------------------------------------+
-| Duration    | 20 March -- 20 April 2024                                |
-+-------------+----------------------------------------------------------+
-| Audience    | DestinE community members                                |
-+-------------+----------------------------------------------------------+
-| Type        | Open Call for Ideas                                      |
-+-------------+----------------------------------------------------------+
-| Mode        | Online                                                   |
-+-------------+----------------------------------------------------------+
-| Description | Given the great impact of DesinE to everyday life,       |
-|             | participants of this Challenge will be given the         |
-|             | opportunity to ideate solutions and almost fictional     |
-|             | services that could be offered by DestinE Platform.      |
-|             | Spread over the duration of 3 month, participants will   |
-|             | be part of a number of activites. Indicatively:          |
-|             |                                                          |
-|             | - **20th March:** participants will be part of the Open  |
-|             |   Call launching evening -- where information on         |
-|             |   DestinE, DestinE Platformand DT engines will be shared |
-|             |   by the 3E entities                                     |
-|             |                                                          |
-|             | The challenge will be shared & Q&As discussed            |
-|             |                                                          |
-|             | - **5th April:** An interim online feedback section may  |
-|             |   be hosted                                              |
-|             |                                                          |
-|             | - **20^th^ April:** Submission of final proposals        |
-|             |                                                          |
-|             | - **10^th^ May:** Participants informed of results,      |
-|             |                                                          |
-|             | - **25^th^ May:** Invitation to attend online event of   |
-|             |   winners presenting their concept in the form of        |
-|             |   pitches. **[Attentively:]{.underline}** This could be  |
-|             |   the 4^th^ Community Event including all CoPs           |
-|             |   concurrently (June 2024 -- see step 5 in Monthly       |
-|             |   Events, above)                                         |
-+-------------+----------------------------------------------------------+
-| Material    | Presentations from ESA, EUMETSAT & ECMWF, DestinE        |
-|             | Platform team                                            |
-|             |                                                          |
-|             | Slido questionnaire                                      |
-+-------------+----------------------------------------------------------+
-| Actions     | Analysis of discussion to gather user recommendations on |
-| post-event  |                                                          |
-|             | - DestinE Platform system                                |
-|             |                                                          |
-|             | - Community activities                                   |
-|             |                                                          |
-|             | - Member Needs & Opportunities                           |
-+-------------+----------------------------------------------------------+
+<table>
+<colgroup>
+<col style="width: 17%" />
+<col style="width: 82%" />
+</colgroup>
+<thead>
+<tr>
+<th><strong>Activity A</strong></th>
+<th><strong>Envisioning the Impact of DestinE Challenge</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Launch Date</td>
+<td>±20 March 2024</td>
+</tr>
+<tr>
+<td>Duration</td>
+<td>20 March – 20 April 2024</td>
+</tr>
+<tr>
+<td>Audience</td>
+<td>DestinE community members</td>
+</tr>
+<tr>
+<td>Type</td>
+<td>Open Call for Ideas</td>
+</tr>
+<tr>
+<td>Mode</td>
+<td>Online</td>
+</tr>
+<tr>
+<td>Description</td>
+<td><p>Given the great impact of DesinE to everyday life, participants
+of this Challenge will be given the opportunity to ideate solutions and
+almost fictional services that could be offered by DestinE Platform.
+Spread over the duration of 3 month, participants will be part of a
+number of activites. Indicatively:</p>
+<ul>
+<li><p><strong>20th March:</strong> participants will be part of the
+Open Call launching evening – where information on DestinE, DestinE
+Platformand DT engines will be shared by the 3E entities</p></li>
+</ul>
+<p>The challenge will be shared &amp; Q&amp;As discussed</p>
+<ul>
+<li><p><strong>5th April:</strong> An interim online feedback section
+may be hosted</p></li>
+<li><p><strong>20<sup>th</sup> April:</strong> Submission of final
+proposals</p></li>
+<li><p><strong>10<sup>th</sup> May:</strong> Participants informed of
+results,</p></li>
+<li><p><strong>25<sup>th</sup> May:</strong> Invitation to attend online
+event of winners presenting their concept in the form of pitches.
+<strong><u>Attentively:</u></strong> This could be the 4<sup>th</sup>
+Community Event including all CoPs concurrently (June 2024 – see step 5
+in Monthly Events, above)</p></li>
+</ul></td>
+</tr>
+<tr>
+<td>Material</td>
+<td><p>Presentations from ESA, EUMETSAT &amp; ECMWF, DestinE Platform
+team</p>
+<p>Slido questionnaire</p></td>
+</tr>
+<tr>
+<td>Actions post-event</td>
+<td><p>Analysis of discussion to gather user recommendations on</p>
+<ul>
+<li><p>DestinE Platform system</p></li>
+<li><p>Community activities</p></li>
+<li><p>Member Needs &amp; Opportunities</p></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
 
-+-------------+----------------------------------------------------------+
-| **Activity  | **In Real Life Hackathon (\*depending on** DestinE       |
-| B**         | Platform **availability)**                               |
-+=============+==========================================================+
-| Launch Date | Mid July 2024                                            |
-+-------------+----------------------------------------------------------+
-| Duration    | 3 Days                                                   |
-+-------------+----------------------------------------------------------+
-| Audience    | DestinE community members                                |
-+-------------+----------------------------------------------------------+
-| Type        | Hackathon                                                |
-+-------------+----------------------------------------------------------+
-| Mode        | In Person / Thessaloniki                                 |
-+-------------+----------------------------------------------------------+
-| Description | In the duration of 3 days, community members will be     |
-|             | invited to Thessaloniki interact with an early version   |
-|             | of the DestinE Platform platform in DestinE.             |
-+-------------+----------------------------------------------------------+
-| Material    | Presentations from ESA, EUMETSAT & ECMWF, DestinE        |
-|             | Platform team                                            |
-|             |                                                          |
-|             | Slido questionnaire                                      |
-+-------------+----------------------------------------------------------+
-| Actions     | Analysis of discussion to gather user recommendations on |
-| post-event  |                                                          |
-|             | - DestinE Platform system                                |
-|             |                                                          |
-|             | - Community activities                                   |
-|             |                                                          |
-|             | - Member Needs & Opportunities                           |
-+-------------+----------------------------------------------------------+
+<table>
+<colgroup>
+<col style="width: 17%" />
+<col style="width: 82%" />
+</colgroup>
+<thead>
+<tr>
+<th><strong>Activity B</strong></th>
+<th><strong>In Real Life Hackathon (*depending on</strong> DestinE
+Platform <strong>availability)</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Launch Date</td>
+<td>Mid July 2024</td>
+</tr>
+<tr>
+<td>Duration</td>
+<td>3 Days</td>
+</tr>
+<tr>
+<td>Audience</td>
+<td>DestinE community members</td>
+</tr>
+<tr>
+<td>Type</td>
+<td>Hackathon</td>
+</tr>
+<tr>
+<td>Mode</td>
+<td>In Person / Thessaloniki</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>In the duration of 3 days, community members will be invited to
+Thessaloniki interact with an early version of the DestinE Platform
+platform in DestinE.</td>
+</tr>
+<tr>
+<td>Material</td>
+<td><p>Presentations from ESA, EUMETSAT &amp; ECMWF, DestinE Platform
+team</p>
+<p>Slido questionnaire</p></td>
+</tr>
+<tr>
+<td>Actions post-event</td>
+<td><p>Analysis of discussion to gather user recommendations on</p>
+<ul>
+<li><p>DestinE Platform system</p></li>
+<li><p>Community activities</p></li>
+<li><p>Member Needs &amp; Opportunities</p></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
 
 **Timeline of Activities**
 
-  ---------------------------------------------------------------------------------------------------------
-   **Activity**  **Jan**   **Feb**   **Mar**   **Apr**   **May**   **Jun**   **Jul**   **Aug**   **Sept**
-  -------------- --------- --------- --------- --------- --------- --------- --------- --------- ----------
-        1                                                                                        
-
-        2                                                                                        
-
-      **A**                                                                                      
-
-        3                                                                                        
-
-        4                                                                                        
-
-        5                                                                                        
-
-        6                                                                                        
-
-      **B**                                                                                      
-  ---------------------------------------------------------------------------------------------------------
+<table>
+<colgroup>
+<col style="width: 10%" />
+<col style="width: 9%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 10%" />
+<col style="width: 9%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: center;"><strong>Activity</strong></th>
+<th style="text-align: center;"><strong>Jan</strong></th>
+<th style="text-align: center;"><strong>Feb</strong></th>
+<th style="text-align: center;"><strong>Mar</strong></th>
+<th style="text-align: center;"><strong>Apr</strong></th>
+<th style="text-align: center;"><strong>May</strong></th>
+<th style="text-align: center;"><strong>Jun</strong></th>
+<th style="text-align: center;"><strong>Jul</strong></th>
+<th style="text-align: center;"><strong>Aug</strong></th>
+<th style="text-align: center;"><strong>Sept</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: center;">2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>A</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: center;">3</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: center;">4</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: center;">5</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: center;">6</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>B</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 Update July 2024:
 
@@ -2132,7 +2602,7 @@ Update July 2025:
 While the activities planned for 2024 had some success, particularly the
 initial events of the Education CoP, the planned Hackathon (Activity B)
 could not be implemented as intended. The Hackathon, designed to
-leverage DEUC project use cases, was contingent on these use cases\'
+leverage DEUC project use cases, was contingent on these use cases'
 timely availability. Unfortunately, delays in the release of these use
 cases prevented the Hackathon from proceeding as planned.
 
@@ -2140,12 +2610,12 @@ Moving forward, it will be crucial to synchronize the Hackathon and
 similar engagement events closely with the availability and maturity of
 the platform and relevant content.
 
-**Priority Axis -- PA1.3: Dissemination and communication**
+**Priority Axis – PA1.3: Dissemination and communication**
 
-The priority axis of \"Dissemination and Communication\" is pivotal in
+The priority axis of "Dissemination and Communication" is pivotal in
 achieving the ambitious goal of reaching 3,000 members within one year.
 This focus underscores the significance of effectively conveying the
-community\'s mission, values, and offerings to a broader audience.
+community's mission, values, and offerings to a broader audience.
 Through targeted dissemination, the community can extend its reach,
 attracting individuals who align with its vision and creating awareness
 among potential stakeholders. Communication plays a key role in
@@ -2167,24 +2637,40 @@ targeted goal of 3,000 members within the stipulated timeframe.
 A Communication and Engagement plan has been put in place since 2023 and
 is detailed in Chapter 4 of the current document.
 
-  -----------------------------------------------------------------------
-  **Actions**                                          **Timetable**
-  ------------------------------------------------ ----------------------
-  A1.3.1 Development and update of a Communication      2023 & 2024
-  and Engagement plan.                             
-
-  A1.3.2 Regularly share engaging content,              2023 & 2024
-  including community updates and upcoming events, 
-  to maintain an active and visible presence.      
-
-  A1.3.3 Actively participate in relevant online        2023 & 2024
-  forums and discussion groups and                 
-  events/conferences to introduce the community to 
-  new audiences.                                   
-
-  A1.3.4 Monitor and track performance of the           2023 & 2024
-  activities.                                      
-  -----------------------------------------------------------------------
+<table>
+<colgroup>
+<col style="width: 68%" />
+<col style="width: 31%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: center;"><strong>Actions</strong></th>
+<th style="text-align: center;"><strong>Timetable</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A1.3.1 Development and update of a Communication and Engagement
+plan.</td>
+<td style="text-align: center;">2023 &amp; 2024</td>
+</tr>
+<tr>
+<td>A1.3.2 Regularly share engaging content, including community updates
+and upcoming events, to maintain an active and visible presence.</td>
+<td style="text-align: center;">2023 &amp; 2024</td>
+</tr>
+<tr>
+<td>A1.3.3 Actively participate in relevant online forums and discussion
+groups and events/conferences to introduce the community to new
+audiences.</td>
+<td style="text-align: center;">2023 &amp; 2024</td>
+</tr>
+<tr>
+<td>A1.3.4 Monitor and track performance of the activities.</td>
+<td style="text-align: center;">2023 &amp; 2024</td>
+</tr>
+</tbody>
+</table>
 
 All activities outlined in PA1.3 have been completed and are now part of
 regular operations. The Communication and Engagement Plan gets updated
@@ -2196,7 +2682,7 @@ monitoring continues to track communication effectiveness, ensuring
 messaging hits the mark and supports goals for community growth and
 engagement.
 
-**STO2 - Enforce user interaction with** DestinE Platform **platform --
+**STO2 - Enforce user interaction with** DestinE Platform **platform –
 reach 1K registrations by the end of 2024**
 
 The year 2024 will witness the pivotal launch of the DestinE Platform.
@@ -2204,49 +2690,80 @@ This event is a seminal moment, as our community transitions into a
 digital realm, providing a curated space for collaboration, connection,
 and the amalgamation of knowledge. By mid-2024, it is expected that user
 registration on the DestinE Platform will be enabled. This step
-represents an intentional effort to broaden our community\'s reach,
+represents an intentional effort to broaden our community's reach,
 inviting individuals to use and interact with the platform. The goal is
 set to reach 1K registrations to DestinE Platform platform by the end of
-2024. It is not only about the platform\'s introduction but onboarding
+2024. It is not only about the platform's introduction but onboarding
 community members as DestinE Platform registered users.
 
 To achieve this strategic objective the following Priority Axes and
 actions are set.
 
-**Priority Axis -- PA2.1: Community members become** DestinE Platform
+**Priority Axis – PA2.1: Community members become** DestinE Platform
 **registered users**
 
-  -----------------------------------------------------------------------
-  **Actions**                                          **Timetable**
-  ------------------------------------------------ ----------------------
-  A2.1.1 Develop a structured onboarding material           2024
-  to guide community members through the process   
-  of becoming DestinE Platform registered users.   
+<table>
+<colgroup>
+<col style="width: 68%" />
+<col style="width: 31%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: center;"><strong>Actions</strong></th>
+<th style="text-align: center;"><strong>Timetable</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A2.1.1 Develop a structured onboarding material to guide community
+members through the process of becoming DestinE Platform registered
+users.</td>
+<td style="text-align: center;">2024</td>
+</tr>
+<tr>
+<td>A2.1.2 Provide step-by-step tutorials, documentation, and support to
+ensure a seamless transition onto the platform.</td>
+<td style="text-align: center;">2024</td>
+</tr>
+<tr>
+<td>A2.1.3 Foster MOOCs uptake to familiarize members and users with
+DestinE Platform features and functionalities (linked to PA2.2).</td>
+<td style="text-align: center;">2024</td>
+</tr>
+</tbody>
+</table>
 
-  A2.1.2 Provide step-by-step tutorials,                    2024
-  documentation, and support to ensure a seamless  
-  transition onto the platform.                    
+**Priority Axis – PA2.2: MOOCs development and promotion**
 
-  A2.1.3 Foster MOOCs uptake to familiarize                 2024
-  members and users with DestinE Platform features 
-  and functionalities (linked to PA2.2).           
-  -----------------------------------------------------------------------
-
-**Priority Axis -- PA2.2: MOOCs development and promotion**
-
-  -----------------------------------------------------------------------
-  **Actions**                                          **Timetable**
-  ------------------------------------------------ ----------------------
-  A2.2.1 Develop MOOCs related to DestinE Platform          2024
-  platform functionalities.                        
-
-  A2.2.2 Develop MOOCs related to the DEUC project          2024
-  use cases to increase interaction.               
-
-  A2.2.3 Implementation of a feedback loop to               2024
-  ensure learners feel supported and connected to  
-  the learning process.                            
-  -----------------------------------------------------------------------
+<table>
+<colgroup>
+<col style="width: 68%" />
+<col style="width: 31%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: center;"><strong>Actions</strong></th>
+<th style="text-align: center;"><strong>Timetable</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A2.2.1 Develop MOOCs related to DestinE Platform platform
+functionalities.</td>
+<td style="text-align: center;">2024</td>
+</tr>
+<tr>
+<td>A2.2.2 Develop MOOCs related to the DEUC project use cases to
+increase interaction.</td>
+<td style="text-align: center;">2024</td>
+</tr>
+<tr>
+<td>A2.2.3 Implementation of a feedback loop to ensure learners feel
+supported and connected to the learning process.</td>
+<td style="text-align: center;">2024</td>
+</tr>
+</tbody>
+</table>
 
 Update July 2025:
 
@@ -2265,17 +2782,17 @@ This DestinE MOOC is structured in a way to cover all the basic features
 and points of the project, but also be open for updates and new entries
 as the project evolves throughout the years and with different
 contractors. In addition, this MOOC targets DestinE users who would like
-to deepen their understanding of DestinE\'s abilities and features and
+to deepen their understanding of DestinE's abilities and features and
 utilize them to grow through them. At the same time, this MOOC is open
 and accessible to people who are uninformed of the project, allowing
-them to learn about DestinE's initiative, services, and Use Cases, and
+them to learn about DestinE’s initiative, services, and Use Cases, and
 benefit from them.
 
 The development of the DestinE MOOC is structured into two
 modules/sections, representing the implementation of the Actions A2.2.1
 and A2.2.2 of the PA2.2 plan. At the first module of the MOOC, named
-"DestinE explained: An introduction to the DestinE initiative and its
-mission", the students will be able to know more about the DestinE
+“DestinE explained: An introduction to the DestinE initiative and its
+mission”, the students will be able to know more about the DestinE
 initiative, its mission, its components, and the Entrusted Entities
 leading this project. At the same time, the students will understand the
 advantages, values, and objectives of DestinE, as well as its community,
@@ -2321,18 +2838,18 @@ capabilities, or features of the core DestinE Platform service, as it is
 being developed. However, it must be clear that the final decision
 making on which recommendation is implemented and to what extent,
 currently remains with the DestinE Platform developers, since they
-maintain a bird's eye view of the entire development process.
+maintain a bird’s eye view of the entire development process.
 
 Users and stakeholders share their input in this co-design process
-through organized and curated activities and tools, such as "User
-Stories", sharing how they operate today and how they might operate in
-the future with the presence of DesitnE, "User Journey Maps", sharing
+through organized and curated activities and tools, such as “User
+Stories”, sharing how they operate today and how they might operate in
+the future with the presence of DesitnE, “User Journey Maps”, sharing
 their activities and detailed steps of how they operate day to day,
-"Card Sorting", sharing their preferences among preselected choices on
+“Card Sorting”, sharing their preferences among preselected choices on
 specifically asked questions, taking part in to Q&As in Community of
 Practice (CoP) discussion sessions, responding to questionnaires as part
 of the CoP activities and casually exchanging views and viewpoints
-during the community's networking activities.
+during the community’s networking activities.
 
 Additionally, given the activity of existing communities of the 3Es, the
 DestinE community aims to reach out, involve and liase with these
@@ -2343,41 +2860,69 @@ between community members and once each is completed, developers will be
 informed of the output and key interaction points through community
 feedback loops in post-event actions.
 
-+-----------------------------------------------------------------------------------+
-| **Co-design within DestinE**                                                      |
-+:==================:+:==================:+:==================:+:==================:+
-| **Codesign input   | **1**              | **2**              | **3**              |
-| level**            |                    |                    |                    |
-+--------------------+--------------------+--------------------+--------------------+
-| **Codesign input** | **Sharing views**  | **Providing        | **Collaboration    |
-|                    |                    | suggestions**      | and Design**       |
-+--------------------+--------------------+--------------------+--------------------+
-| **User             | Inviting views     | Inviting informed  | Informed and       |
-| involvement**      | from the community | opinions from the  | curated            |
-|                    | in order to gain   | community on set   | recommendations    |
-|                    | an understanding   | subjects.          | about the DestinE  |
-|                    | of their reality   |                    | Platform features  |
-|                    |                    |                    | and                |
-|                    |                    |                    | functionalities.   |
-+--------------------+--------------------+--------------------+--------------------+
-| DestinE Platform   | No commitment to   | Attention paid,    | Feedback is given  |
-| **developer        | take these input   | but no commitment  | by DestinE         |
-| engagement**       | onboard by the     | to take these      | Platform           |
-|                    | DestinE Platform   | onboard by the     | development team   |
-|                    | development team   | DestinE Platform   | and actively       |
-|                    |                    | development team   | working to make    |
-|                    |                    |                    | suggestions fit    |
-|                    |                    |                    | for the platform.  |
-+--------------------+--------------------+--------------------+--------------------+
-| **Co-design        | Community          | CoP Activities,    | Recommendations    |
-| activities**       | activities,\       |                    | formulation        |
-|                    | Ideation           | Hackathons         |                    |
-|                    | challenges         |                    |                    |
-+--------------------+--------------------+--------------------+--------------------+
+<table>
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 26%" />
+<col style="width: 27%" />
+<col style="width: 30%" />
+</colgroup>
+<thead>
+<tr>
+<th colspan="4" style="text-align: center;"><strong>Co-design within
+DestinE</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>Codesign input
+level</strong></td>
+<td style="text-align: center;"><strong>1</strong></td>
+<td style="text-align: center;"><strong>2</strong></td>
+<td style="text-align: center;"><strong>3</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>Codesign input</strong></td>
+<td style="text-align: center;"><strong>Sharing views</strong></td>
+<td style="text-align: center;"><strong>Providing
+suggestions</strong></td>
+<td style="text-align: center;"><strong>Collaboration and
+Design</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>User involvement</strong></td>
+<td style="text-align: center;">Inviting views from the community in
+order to gain an understanding of their reality</td>
+<td style="text-align: center;">Inviting informed opinions from the
+community on set subjects.</td>
+<td style="text-align: center;">Informed and curated recommendations
+about the DestinE Platform features and functionalities.</td>
+</tr>
+<tr>
+<td style="text-align: center;">DestinE Platform <strong>developer
+engagement</strong></td>
+<td style="text-align: center;">No commitment to take these input
+onboard by the DestinE Platform development team</td>
+<td style="text-align: center;">Attention paid, but no commitment to
+take these onboard by the DestinE Platform development team</td>
+<td style="text-align: center;">Feedback is given by DestinE Platform
+development team and actively working to make suggestions fit for the
+platform.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>Co-design
+activities</strong></td>
+<td style="text-align: center;">Community activities,<br />
+Ideation challenges</td>
+<td style="text-align: center;"><p>CoP Activities,</p>
+<p>Hackathons</p></td>
+<td style="text-align: center;">Recommendations formulation</td>
+</tr>
+</tbody>
+</table>
 
 The identification of users and their engagement may follow the
-successful example of "climate services coproduction processes"[^2]
-i.e.:
+successful example of “climate services coproduction processes”[1] i.e.:
 
 a\. Step 1: Establish the Why - High-Level Goal Conceptualization: To
 begin by focusing on the overarching goal or issue before diving into
@@ -2404,27 +2949,41 @@ in Step 4. Tailor engagement intensity from awareness raising for all
 stakeholders to involvement for potential users and empowerment for
 final users.
 
-**Priority Axis -- PA3.1: Establish a co-design approach in community
+**Priority Axis – PA3.1: Establish a co-design approach in community
 activities**
 
-  -----------------------------------------------------------------------
-  **Actions**                                          **Timetable**
-  ------------------------------------------------ ----------------------
-  A3.1.1 Develop clear and concise guidelines that          2024
-  outline the principles and processes of          
-  co-design within the community.                  
+<table>
+<colgroup>
+<col style="width: 68%" />
+<col style="width: 31%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: center;"><strong>Actions</strong></th>
+<th style="text-align: center;"><strong>Timetable</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A3.1.1 Develop clear and concise guidelines that outline the
+principles and processes of co-design within the community.</td>
+<td style="text-align: center;">2024</td>
+</tr>
+<tr>
+<td>A3.1.2 Identify specific activities, features, or initiatives within
+the community that are suitable for co-design (linked with PA1.2)</td>
+<td style="text-align: center;">2024</td>
+</tr>
+<tr>
+<td>A3.1.3 Establish a process for recognizing and showcasing members'
+contributions to co-design activities.</td>
+<td style="text-align: center;">2024</td>
+</tr>
+</tbody>
+</table>
 
-  A3.1.2 Identify specific activities, features,            2024
-  or initiatives within the community that are     
-  suitable for co-design (linked with PA1.2)       
-
-  A3.1.3 Establish a process for recognizing and            2024
-  showcasing members\' contributions to co-design  
-  activities.                                      
-  -----------------------------------------------------------------------
-
-**Priority Axis -- PA3.2: Effectively communicate the community
-co-design results to** DestinE Platform **developers**
+**Priority Axis – PA3.2: Effectively communicate the community co-design
+results to** DestinE Platform **developers**
 
 The establishment of a robust communication channel, where community
 recommendations are conveyed to DestinE Platform developers, directly
@@ -2433,21 +2992,35 @@ community to fulfil its existence and role while ensuring that the
 platform is finely tuned to the evolving needs and aspirations of its
 user base.
 
-  -----------------------------------------------------------------------
-  **Actions**                                          **Timetable**
-  ------------------------------------------------ ----------------------
-  A3.2.1 Establish a User-Feedback                          2024
-  Approach/Protocol.                               
-
-  A3.2.2 Provide an online place for users to               2024
-  share recommendations, insights, and experiences 
-  which will be shared with the DestinE Platform   
-  development team.                                
-
-  A3.2.3 Provide regular updates on how user                2024
-  feedback is being processed, implemented, and    
-  contributing to platform enhancements.           
-  -----------------------------------------------------------------------
+<table>
+<colgroup>
+<col style="width: 68%" />
+<col style="width: 31%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: center;"><strong>Actions</strong></th>
+<th style="text-align: center;"><strong>Timetable</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A3.2.1 Establish a User-Feedback Approach/Protocol.</td>
+<td style="text-align: center;">2024</td>
+</tr>
+<tr>
+<td>A3.2.2 Provide an online place for users to share recommendations,
+insights, and experiences which will be shared with the DestinE Platform
+development team.</td>
+<td style="text-align: center;">2024</td>
+</tr>
+<tr>
+<td>A3.2.3 Provide regular updates on how user feedback is being
+processed, implemented, and contributing to platform enhancements.</td>
+<td style="text-align: center;">2024</td>
+</tr>
+</tbody>
+</table>
 
 Update 2025:
 
@@ -2455,10 +3028,10 @@ While the specific actions listed under PA3.1 and PA3.2 have not been
 formally implemented (the online forum is under development), community
 activities held throughout 2023 & 2024 served as vital sources of
 continuous user feedback. This feedback has been regularly collected and
-directly informed the recommendations presented in \"D2.3 Roadmap for a
-wider DestinE system uptake.\" These user insights have been
-consistently communicated to the DestinE Platform development team
-through ongoing feedback loops.
+directly informed the recommendations presented in "D2.3 Roadmap for a
+wider DestinE system uptake." These user insights have been consistently
+communicated to the DestinE Platform development team through ongoing
+feedback loops.
 
 As also highlighted in D2.3, co-design is a key area of interest and
 expectation for the DestinE user community. While foundational steps
@@ -2468,11 +3041,7 @@ expectations. These next steps are now more clearly articulated in D2.3
 and are expected to guide future implementation efforts toward a
 formalized co-design framework within the community.
 
-[^1]: As from September 2025 a dedicated social media channel has been
-    established on LinkedIn
-
-[^2]: Baulenas, E., Bojović, D., Urquiza, D., Terrado, M., Pickard, S.,
-    González, N., & St Clair, A. L. (2023). User selection and
-    engagement for climate services coproduction. *Weather, Climate, and
-    Society*, *15*(2),
-    381--392. https://doi.org/10.1175/wcas-d-22-0112.1
+[1] Baulenas, E., Bojović, D., Urquiza, D., Terrado, M., Pickard, S.,
+González, N., & St Clair, A. L. (2023). User selection and engagement
+for climate services coproduction. *Weather, Climate, and
+Society*, *15*(2), 381–392. https://doi.org/10.1175/wcas-d-22-0112.1
